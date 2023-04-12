@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d951228.css",
+    "main.js": "/static/js/main.2c7b2e17.js",
+    "static/media/smiling-african-american-woman-using-mobile-phone-shopping-online-reading-text-message 1.png": "/static/media/smiling-african-american-woman-using-mobile-phone-shopping-online-reading-text-message 1.c878cf775d4f4745dbdb.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
+    "static/media/Simple-Line-Icons.svg?v=2.4.0": "/static/media/Simple-Line-Icons.809e55bbb1903c630920.svg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
+    "static/media/feather-webfont.svg?t=1501841394106": "/static/media/feather-webfont.b5fc8ffccfd4b22c373f.svg",
+    "static/media/weathericons-regular-webfont.svg": "/static/media/weathericons-regular-webfont.3726e04a389324097351.svg",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.64d495f582d4a1590a6c.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.a914b121110f8b6e01c9.woff2",
+    "static/media/weathericons-regular-webfont.ttf": "/static/media/weathericons-regular-webfont.520c26b13fefaeef5c94.ttf",
+    "static/media/Simple-Line-Icons.woff?v=2.4.0": "/static/media/Simple-Line-Icons.5c9febce52054ae0b96d.woff",
+    "static/media/feather-webfont.ttf?t=1501841394106": "/static/media/feather-webfont.2a86b695698c807fb6c0.ttf",
+    "static/media/feather-webfont.eot?t=1501841394106": "/static/media/feather-webfont.708f3d4239b21b059993.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.625dca125b58060788da.ttf",
+    "static/media/Simple-Line-Icons.eot?v=2.4.0": "/static/media/Simple-Line-Icons.85e8c542d5e137beecf9.eot",
+    "static/media/Simple-Line-Icons.ttf?v=2.4.0": "/static/media/Simple-Line-Icons.3ec13a24af3fdda11107.ttf",
+    "static/media/weathericons-regular-webfont.woff": "/static/media/weathericons-regular-webfont.e4d2c00ed56824803ce0.woff",
+    "static/media/weathericons-regular-webfont.eot": "/static/media/weathericons-regular-webfont.db8e6bec2adb2a3e2779.eot",
+    "static/media/MONESA.png": "/static/media/MONESA.eefd0424a3cb0993e65c.png",
+    "static/media/Simple-Line-Icons.woff2?v=2.4.0": "/static/media/Simple-Line-Icons.3826fa1cb2348dd93948.woff2",
+    "static/media/feather-webfont.woff?t=1501841394106": "/static/media/feather-webfont.63646eb9c7fb162ba07d.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.47074dec01b64a5db2c4.woff2",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
+    "index.html": "/index.html",
+    "main.4d951228.css.map": "/static/css/main.4d951228.css.map",
+    "main.2c7b2e17.js.map": "/static/js/main.2c7b2e17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d951228.css",
+    "static/js/main.2c7b2e17.js"
+  ]
+}

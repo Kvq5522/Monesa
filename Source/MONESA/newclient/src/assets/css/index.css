@@ -1,0 +1,181 @@
+body {
+  position: relative;
+  width: 100%;
+  background: #FFFFFF;
+}
+
+/*First Page*/
+.firstpage {
+  position: absolute;
+  width: 99%;
+  height: 700px;
+  left: 0px;
+  top: 0px;
+  z-index: -2;
+}
+
+.Navbar {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  top: 15px;
+
+}
+
+.temp {
+  text-align: center;
+}
+
+
+.logo1 {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  background-image: url(../../../public/MONESA.png);
+  background-position: 150px 158px;
+  background-size: 200px;
+  z-index: index -1;
+}
+
+.logo2 {
+  position: absolute;
+  width: 500px;
+  height: 121.4px;
+  left: 420px;
+  background-image: url(../../../public/MONESA.png);
+  z-index: index 0;
+  ;
+  background-position: 590px 210px;
+  background-size: 550px;
+}
+
+.button {
+  position: absolute;
+  left: 78%;
+  right: 0%;
+  top: 20%;
+  bottom: 0%;
+}
+
+.Reg {
+  font-size: 30px;
+  font-family: New;
+  background-color: orange;
+  margin-left: 10%;
+  margin-right: 0;
+  border-radius: 10px;
+  border-color: rgba(255, 99, 71, 0.0);
+  color: white;
+  width: 40%;
+  height: 60%;
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Reg:hover {
+  opacity: 0.6;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+
+
+.Log {
+  background-color: rgba(255, 99, 71, 0.0);
+  font-size: 30px;
+  font-family: New;
+  border-color: rgba(255, 99, 71, 0.0);
+  cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 6px 6px rgba(128, 128, 128, 0.288);
+}
+
+.Log:hover {
+  opacity: 0.6;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -moz-transition: opacity 0.3s ease-in-out;
+  -ms-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.picture {
+  background: url(../../../public/smiling-african-american-woman-using-mobile-phone-shopping-online-reading-text-message\ 1.png);
+  position: relative;
+  width: 600px;
+  height: 650px;
+  background-size: 600px;
+  top: 100px;
+  left: 800px;
+}
+
+.ecslip {
+  position: absolute;
+  width: 540px;
+  height: 400px;
+  left: 20px;
+  top: 200px;
+  background: #FACC15;
+  z-index: -1;
+  border-radius: 50%;
+}
+
+.content {
+  position: absolute;
+  width: 550px;
+  height: 530.5px;
+  left: 75px;
+  top: 210.5px;
+}
+
+.Text {
+  width: 500px;
+  height: 300px;
+}
+
+.text1 {
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 55px;
+  font-family: 'Abhaya Libre';
+  font-style: normal;
+}
+
+.text2 {
+  width: 440px;
+  height: 64px;
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  color: #383A47;
+  opacity: 0.8;
+}
+
+.go {
+  background-color: orange;
+  border-radius: 5px;
+  font-size: 20px;
+  width: 200px;
+  border: rgba(0, 0, 0, 0);
+  color: white;
+  height: 50px;
+  transition: background-color 1s ease-out 50ms;
+  cursor: pointer;
+}
+
+.go:hover {
+  background-color: rgba(255, 166, 0, 0.452);
+}
+
+.secpage {
+  position: absolute;
+  width: 100%;
+  height: 700px;
+  left: 0px;
+  margin-top: 1100px;
+  background-color: orange;
+}

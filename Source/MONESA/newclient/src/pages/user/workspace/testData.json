@@ -1,0 +1,5106 @@
+[
+  {
+    "name": "Workspace's statistic",
+    "balance": 50000,
+    "income": 150000,
+    "outcome": 100000,
+    "transactions": [
+      {
+        "_id": "62f23005d143755121e088c8",
+        "name": "Marlene Nelson",
+        "type": "Income",
+        "amount": 853574.9029,
+        "date": "2022-08-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b44df40a52bac55aa",
+        "name": "Tonya Le",
+        "type": "Outcome",
+        "amount": 935455.7763,
+        "date": "2022-08-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300537eac68c591cdad2",
+        "name": "Moreno Barnes",
+        "type": "Income",
+        "amount": 992619.5637,
+        "date": "2022-07-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbc147aeeeb24cf16",
+        "name": "Cline Guy",
+        "type": "Outcome",
+        "amount": 597847.0588,
+        "date": "2022-07-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005edcbc7e47c9aa5cb",
+        "name": "Cervantes Kaufman",
+        "type": "Income",
+        "amount": 594534.166,
+        "date": "2022-07-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba598a1f1475ca623",
+        "name": "Galloway Chapman",
+        "type": "Outcome",
+        "amount": 182783.7963,
+        "date": "2022-07-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054ffaa36af52e0b52",
+        "name": "Katy Jenkins",
+        "type": "Income",
+        "amount": 575307.6557,
+        "date": "2022-07-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4178c6ea507d543e",
+        "name": "Gomez Curtis",
+        "type": "Outcome",
+        "amount": 944028.2851,
+        "date": "2022-07-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059922adffa5de8189",
+        "name": "Howard Hester",
+        "type": "Income",
+        "amount": 252208.9971,
+        "date": "2022-07-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1f8ad41e4a63d59f",
+        "name": "Olive Gates",
+        "type": "Outcome",
+        "amount": 355569.7622,
+        "date": "2022-07-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005618d371172226911",
+        "name": "Mcclure Abbott",
+        "type": "Income",
+        "amount": 783203.0323,
+        "date": "2022-07-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbe8868da99f82442",
+        "name": "Crawford Dotson",
+        "type": "Outcome",
+        "amount": 932486.384,
+        "date": "2022-07-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005aa0b42ab2a7ad360",
+        "name": "Chambers Ware",
+        "type": "Income",
+        "amount": 850799.2383,
+        "date": "2022-07-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8e16f2ab342c9b76",
+        "name": "Grace Higgins",
+        "type": "Outcome",
+        "amount": 435711.862,
+        "date": "2022-07-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300566692a68a1ebdf52",
+        "name": "Bates Best",
+        "type": "Income",
+        "amount": 116748.0062,
+        "date": "2022-07-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5e0685532025815b",
+        "name": "Wilson Carrillo",
+        "type": "Outcome",
+        "amount": 385505.9914,
+        "date": "2022-07-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ba1f933f1b3e4140",
+        "name": "Nona Lane",
+        "type": "Income",
+        "amount": 377868.1143,
+        "date": "2022-07-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b280917093e779bcf",
+        "name": "Hebert Atkins",
+        "type": "Outcome",
+        "amount": 434815.7391,
+        "date": "2022-07-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054ec6c4971abebac9",
+        "name": "Herrera Yates",
+        "type": "Income",
+        "amount": 832247.8732,
+        "date": "2022-07-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4f701ba8fdae457b",
+        "name": "Lupe Atkinson",
+        "type": "Outcome",
+        "amount": 456258.6902,
+        "date": "2022-07-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051b9891768bbbc2d3",
+        "name": "Gillespie Lambert",
+        "type": "Income",
+        "amount": 82661.451,
+        "date": "2022-07-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8af8db4fd356f8ee",
+        "name": "Lottie Dunlap",
+        "type": "Outcome",
+        "amount": 104931.8857,
+        "date": "2022-07-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056f3a55dc5527542f",
+        "name": "Forbes Wynn",
+        "type": "Income",
+        "amount": 901650.9686,
+        "date": "2022-07-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b818050d9e44f5c6b",
+        "name": "Winters Monroe",
+        "type": "Outcome",
+        "amount": 453157.1643,
+        "date": "2022-07-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052b0415f4d964529e",
+        "name": "Whitaker Castro",
+        "type": "Income",
+        "amount": 670182.1749,
+        "date": "2022-07-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3e68d11ae9f72b29",
+        "name": "Burgess Beck",
+        "type": "Outcome",
+        "amount": 790785.4799,
+        "date": "2022-07-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005af572426243954d9",
+        "name": "Leslie Allen",
+        "type": "Income",
+        "amount": 852862.1596,
+        "date": "2022-07-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3280594ab18e9c82",
+        "name": "Chelsea Owens",
+        "type": "Outcome",
+        "amount": 44153.5995,
+        "date": "2022-07-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f9150a0e50facbb5",
+        "name": "Ora Hatfield",
+        "type": "Income",
+        "amount": 188061.3888,
+        "date": "2022-07-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba9b425575383e8aa",
+        "name": "Ophelia Gardner",
+        "type": "Outcome",
+        "amount": 697874.7602,
+        "date": "2022-07-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051d31d457ce6389dc",
+        "name": "Goodman Jones",
+        "type": "Income",
+        "amount": 585735.0099,
+        "date": "2022-07-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9f8b6c0d196264a3",
+        "name": "Sadie Ballard",
+        "type": "Outcome",
+        "amount": 798396.5226,
+        "date": "2022-07-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ab7e1c7749eab9a7",
+        "name": "Ginger Olson",
+        "type": "Income",
+        "amount": 283669.2784,
+        "date": "2022-07-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b105c118ad5be01b6",
+        "name": "Sykes Hull",
+        "type": "Outcome",
+        "amount": 877931.8639,
+        "date": "2022-07-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053437a527edbe5b00",
+        "name": "Nola Neal",
+        "type": "Income",
+        "amount": 369091.3299,
+        "date": "2022-07-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9cc31317372b4dc9",
+        "name": "Esmeralda Harrington",
+        "type": "Outcome",
+        "amount": 710080.372,
+        "date": "2022-07-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057dd756dedc7462bc",
+        "name": "Carmella Buckner",
+        "type": "Income",
+        "amount": 203310.7677,
+        "date": "2022-07-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2ac9ad7b028940fd",
+        "name": "Debbie Oliver",
+        "type": "Outcome",
+        "amount": 177278.7003,
+        "date": "2022-07-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052e51198826c86cba",
+        "name": "Christian Herman",
+        "type": "Income",
+        "amount": 407177.5274,
+        "date": "2022-07-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8c72c2ef7e1ab944",
+        "name": "Sears Holland",
+        "type": "Outcome",
+        "amount": 967435.3975,
+        "date": "2022-07-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052dedfc308dafe9bf",
+        "name": "Shawna Herrera",
+        "type": "Income",
+        "amount": 568404.7582,
+        "date": "2022-07-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7d58c6a5cad18d37",
+        "name": "Sharlene Rice",
+        "type": "Outcome",
+        "amount": 388063.7426,
+        "date": "2022-07-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c87ca75daf7d40c1",
+        "name": "Olive Harrington",
+        "type": "Income",
+        "amount": 436496.6372,
+        "date": "2022-07-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5a419d105e271bb5",
+        "name": "Conrad Cummings",
+        "type": "Outcome",
+        "amount": 670665.5214,
+        "date": "2022-07-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300548b254d69555f173",
+        "name": "Kimberley Lucas",
+        "type": "Income",
+        "amount": 58368.9522,
+        "date": "2022-07-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3b5f08aafc0a4c53",
+        "name": "Rose Cooley",
+        "type": "Outcome",
+        "amount": 488812.7358,
+        "date": "2022-07-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005801d93db35b1dd08",
+        "name": "Butler Saunders",
+        "type": "Income",
+        "amount": 360142.9947,
+        "date": "2022-07-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bda89b4113ecbea25",
+        "name": "Jensen Mcmahon",
+        "type": "Outcome",
+        "amount": 942152.2277,
+        "date": "2022-07-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051f2252d0f679d642",
+        "name": "Bernadette Herring",
+        "type": "Income",
+        "amount": 417065.1693,
+        "date": "2022-07-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8cacec82e4e19033",
+        "name": "Payne Stevenson",
+        "type": "Outcome",
+        "amount": 307892.7657,
+        "date": "2022-07-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e74eedf267d7a426",
+        "name": "Dorsey Russo",
+        "type": "Income",
+        "amount": 657515.05,
+        "date": "2022-07-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b81d019d4c87aa8a0",
+        "name": "Le Shepherd",
+        "type": "Outcome",
+        "amount": 778298.2482,
+        "date": "2022-07-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b5950fbe84e42fb0",
+        "name": "Kathryn Mercer",
+        "type": "Income",
+        "amount": 987613.0558,
+        "date": "2022-07-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc3c4b06ae42d274d",
+        "name": "Arnold Mccullough",
+        "type": "Outcome",
+        "amount": 45609.765,
+        "date": "2022-07-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f5e35274505d920a",
+        "name": "Calhoun Russell",
+        "type": "Income",
+        "amount": 824556.9811,
+        "date": "2022-07-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b07ed0619388a197f",
+        "name": "Bryan Morales",
+        "type": "Outcome",
+        "amount": 860404.8662,
+        "date": "2022-07-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057d5e5831cf50164c",
+        "name": "Maryann Head",
+        "type": "Income",
+        "amount": 720499.3655,
+        "date": "2022-07-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9e2ec728bc9ef9cb",
+        "name": "Jeri Maxwell",
+        "type": "Outcome",
+        "amount": 243186.0281,
+        "date": "2022-07-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005642d2821e8584762",
+        "name": "Jayne Watkins",
+        "type": "Income",
+        "amount": 692891.6147,
+        "date": "2022-07-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb185188f2a32210a",
+        "name": "Roberson Riley",
+        "type": "Outcome",
+        "amount": 247437.5319,
+        "date": "2022-07-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053924381a4a6ac0d7",
+        "name": "Lori Sanford",
+        "type": "Income",
+        "amount": 339516.7523,
+        "date": "2022-07-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b11a577c246fab6fc",
+        "name": "Ware Haney",
+        "type": "Outcome",
+        "amount": 352116.806,
+        "date": "2022-07-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050fed2b7c650db1d3",
+        "name": "Mack Henson",
+        "type": "Income",
+        "amount": 285245.3459,
+        "date": "2022-07-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd6ab90e8c8fb4601",
+        "name": "Hensley Christensen",
+        "type": "Outcome",
+        "amount": 593050.5639,
+        "date": "2022-07-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057d310f6eb9031bef",
+        "name": "Tammie Whitaker",
+        "type": "Income",
+        "amount": 913264.6217,
+        "date": "2022-06-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6f5164f55ebb9b54",
+        "name": "Lloyd Hudson",
+        "type": "Outcome",
+        "amount": 740181.4857,
+        "date": "2022-06-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b8774b0f51c4da2a",
+        "name": "Mays Cabrera",
+        "type": "Income",
+        "amount": 523431.1604,
+        "date": "2022-06-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b27f8234fc9491bfb",
+        "name": "Lakisha Trevino",
+        "type": "Outcome",
+        "amount": 838189.0982,
+        "date": "2022-06-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005129dcf050a452ff0",
+        "name": "Mccall Bright",
+        "type": "Income",
+        "amount": 202031.2016,
+        "date": "2022-06-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8d19ae0ea2d1a016",
+        "name": "Dalton Zimmerman",
+        "type": "Outcome",
+        "amount": 819172.2214,
+        "date": "2022-06-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f067d16b075abdbb",
+        "name": "Gates Garza",
+        "type": "Income",
+        "amount": 311690.6993,
+        "date": "2022-06-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3aa78aaab3c4d1a5",
+        "name": "Carver Kennedy",
+        "type": "Outcome",
+        "amount": 192707.622,
+        "date": "2022-06-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005dc248eee5c07bf8e",
+        "name": "Melendez Bonner",
+        "type": "Income",
+        "amount": 136450.5996,
+        "date": "2022-06-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b823defb0f7099879",
+        "name": "Kelly Mercado",
+        "type": "Outcome",
+        "amount": 339374.4217,
+        "date": "2022-06-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300580d2dea16570e40f",
+        "name": "Bertie Franks",
+        "type": "Income",
+        "amount": 769064.3387,
+        "date": "2022-06-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b27f5352a229a5001",
+        "name": "Keri Lewis",
+        "type": "Outcome",
+        "amount": 695984.1398,
+        "date": "2022-06-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005be16cd18643c872f",
+        "name": "Gallegos Potts",
+        "type": "Income",
+        "amount": 397450.2183,
+        "date": "2022-06-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6d29c59f9a06c03c",
+        "name": "Imogene Buck",
+        "type": "Outcome",
+        "amount": 683888.1593,
+        "date": "2022-06-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054da7061277f61bbd",
+        "name": "Lupe Cooley",
+        "type": "Income",
+        "amount": 315751.1463,
+        "date": "2022-06-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6090923eab7b3504",
+        "name": "Ebony Myers",
+        "type": "Outcome",
+        "amount": 543647.9689,
+        "date": "2022-06-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ae86ca296d43dd51",
+        "name": "Ana Macdonald",
+        "type": "Income",
+        "amount": 160824.6893,
+        "date": "2022-06-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b41c512d2182ab2b2",
+        "name": "Salas Small",
+        "type": "Outcome",
+        "amount": 32222.119,
+        "date": "2022-06-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005593fd39464ceea1b",
+        "name": "Deanne Dunn",
+        "type": "Income",
+        "amount": 842272.3267,
+        "date": "2022-06-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdc4b27e50c485d1d",
+        "name": "Hester Harrell",
+        "type": "Outcome",
+        "amount": 767896.8855,
+        "date": "2022-06-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a97dc00389fee21d",
+        "name": "Grimes Clark",
+        "type": "Income",
+        "amount": 974121.7119,
+        "date": "2022-06-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302baab11332a4a5dc20",
+        "name": "Lakeisha Santos",
+        "type": "Outcome",
+        "amount": 35235.0632,
+        "date": "2022-06-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300578f2852c413e01e0",
+        "name": "Carey Daugherty",
+        "type": "Income",
+        "amount": 530846.0725,
+        "date": "2022-06-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0902e9ab315f6cc1",
+        "name": "Ferrell Maynard",
+        "type": "Outcome",
+        "amount": 45692.6292,
+        "date": "2022-06-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b1dc3ada4907b137",
+        "name": "Hopper Short",
+        "type": "Income",
+        "amount": 263397.9512,
+        "date": "2022-06-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf505703509b5f511",
+        "name": "Bethany Valdez",
+        "type": "Outcome",
+        "amount": 857327.7898,
+        "date": "2022-06-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005584460f896d17399",
+        "name": "Sharpe Guzman",
+        "type": "Income",
+        "amount": 996845.3503,
+        "date": "2022-06-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2aaf253b3babc259",
+        "name": "Maura York",
+        "type": "Outcome",
+        "amount": 296678.6192,
+        "date": "2022-06-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e8dabef1f80bc599",
+        "name": "Ramsey Small",
+        "type": "Income",
+        "amount": 86710.5339,
+        "date": "2022-06-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b72730f4380dcae2d",
+        "name": "Zamora Haynes",
+        "type": "Outcome",
+        "amount": 943818.0896,
+        "date": "2022-06-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a92ace6f5477fbb4",
+        "name": "Michelle Dalton",
+        "type": "Income",
+        "amount": 62769.3318,
+        "date": "2022-06-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b19effaab938b1131",
+        "name": "Gail Olson",
+        "type": "Outcome",
+        "amount": 363746.2269,
+        "date": "2022-06-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cbae26a64f6552be",
+        "name": "Charlene Langley",
+        "type": "Income",
+        "amount": 55963.5808,
+        "date": "2022-06-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b95a38158d76f216f",
+        "name": "Harriet Poole",
+        "type": "Outcome",
+        "amount": 284948.5452,
+        "date": "2022-06-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d0c878fc29bffba0",
+        "name": "Alana Trevino",
+        "type": "Income",
+        "amount": 339175.7026,
+        "date": "2022-06-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0b364aa2c8d392ca",
+        "name": "Ruiz Rivas",
+        "type": "Outcome",
+        "amount": 649797.7789,
+        "date": "2022-06-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300586eb34d4044d46d6",
+        "name": "Guerra Blair",
+        "type": "Income",
+        "amount": 702939.2609,
+        "date": "2022-06-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b009c88ee58ec22b5",
+        "name": "Silvia Bowers",
+        "type": "Outcome",
+        "amount": 377801.8158,
+        "date": "2022-06-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005496124c48346a6fe",
+        "name": "Corinne Waller",
+        "type": "Income",
+        "amount": 437104.5289,
+        "date": "2022-06-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0ffa00f5614f2ade",
+        "name": "Amparo Sandoval",
+        "type": "Outcome",
+        "amount": 49336.3,
+        "date": "2022-06-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053feeef1f34df7d00",
+        "name": "Margaret Mclean",
+        "type": "Income",
+        "amount": 134262.1352,
+        "date": "2022-06-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcafeb2cc482304bc",
+        "name": "Beverly Beach",
+        "type": "Outcome",
+        "amount": 757333.202,
+        "date": "2022-06-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005505d9f51872579ef",
+        "name": "Ines Wilkinson",
+        "type": "Income",
+        "amount": 578729.9317,
+        "date": "2022-06-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b903b9bcc50fa95be",
+        "name": "Nelda Barber",
+        "type": "Outcome",
+        "amount": 892273.221,
+        "date": "2022-06-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ce6b8c86f5d426df",
+        "name": "Johnnie Bentley",
+        "type": "Income",
+        "amount": 972043.6961,
+        "date": "2022-06-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc4c0721e43cd7083",
+        "name": "Chaney Schultz",
+        "type": "Outcome",
+        "amount": 810263.6091,
+        "date": "2022-06-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c429dbc0b1d2c149",
+        "name": "Mills Page",
+        "type": "Income",
+        "amount": 349911.4117,
+        "date": "2022-06-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd9c65f5c3e3c0ee7",
+        "name": "Juliana Gallagher",
+        "type": "Outcome",
+        "amount": 979919.5722,
+        "date": "2022-06-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005899c8e946fc43cff",
+        "name": "Hatfield Sawyer",
+        "type": "Income",
+        "amount": 905187.1721,
+        "date": "2022-06-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf80f1e1d09617e10",
+        "name": "Colleen Mccray",
+        "type": "Outcome",
+        "amount": 782788.4739,
+        "date": "2022-06-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bed2f6d7e607ca4e",
+        "name": "Bass Dillard",
+        "type": "Income",
+        "amount": 633321.594,
+        "date": "2022-06-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b88ab5b4c9d46e1f3",
+        "name": "Nunez Lambert",
+        "type": "Outcome",
+        "amount": 7207.3004,
+        "date": "2022-06-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c95673cbfa86f8e6",
+        "name": "Tracy Holmes",
+        "type": "Income",
+        "amount": 614263.5536,
+        "date": "2022-06-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2e986db5c8b24d6d",
+        "name": "Cassie Snider",
+        "type": "Outcome",
+        "amount": 777450.9399,
+        "date": "2022-06-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d57b8e044a4fea20",
+        "name": "Sheppard Wilkins",
+        "type": "Income",
+        "amount": 233155.0569,
+        "date": "2022-06-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b875bae4e4111fe47",
+        "name": "Woods Ramos",
+        "type": "Outcome",
+        "amount": 646351.6951,
+        "date": "2022-06-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a8e629102a023d64",
+        "name": "Jeannine Skinner",
+        "type": "Income",
+        "amount": 782500.8011,
+        "date": "2022-06-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7230bda7d3abf80c",
+        "name": "Mclean Robbins",
+        "type": "Outcome",
+        "amount": 556666.6748,
+        "date": "2022-06-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051a14ad2e34a9faaa",
+        "name": "Shelton Mcintosh",
+        "type": "Income",
+        "amount": 721306.9438,
+        "date": "2022-06-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bff754be48bbe0cd8",
+        "name": "Madelyn Schwartz",
+        "type": "Outcome",
+        "amount": 473328.0212,
+        "date": "2022-06-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005568311add979cf04",
+        "name": "Anita Ewing",
+        "type": "Income",
+        "amount": 965583.4275,
+        "date": "2022-05-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b00eac92f0eb57582",
+        "name": "Alma Duffy",
+        "type": "Outcome",
+        "amount": 104309.5196,
+        "date": "2022-05-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300586e10b007fe07023",
+        "name": "Rosalyn Nolan",
+        "type": "Income",
+        "amount": 998353.2597,
+        "date": "2022-05-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b32c225915926463b",
+        "name": "Moreno Maldonado",
+        "type": "Outcome",
+        "amount": 10870.6665,
+        "date": "2022-05-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e3564952ea03f513",
+        "name": "Mccray Lang",
+        "type": "Income",
+        "amount": 248338.9526,
+        "date": "2022-05-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b16b7650b79295b1c",
+        "name": "Snyder Keith",
+        "type": "Outcome",
+        "amount": 412917.4973,
+        "date": "2022-05-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b1a39ba883970cac",
+        "name": "Millie Buchanan",
+        "type": "Income",
+        "amount": 883943.8018,
+        "date": "2022-05-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b501b5daaea1c008a",
+        "name": "Sanders Austin",
+        "type": "Outcome",
+        "amount": 942518.5926,
+        "date": "2022-05-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300507fbbd0687f2c292",
+        "name": "Andrea Rogers",
+        "type": "Income",
+        "amount": 298632.8909,
+        "date": "2022-05-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5a1790b1c981587a",
+        "name": "Moran Hickman",
+        "type": "Outcome",
+        "amount": 472828.1264,
+        "date": "2022-05-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056294e09bd3cf1a81",
+        "name": "Raymond Potter",
+        "type": "Income",
+        "amount": 360178.8586,
+        "date": "2022-05-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b064f6359e356caa0",
+        "name": "Sharron Tillman",
+        "type": "Outcome",
+        "amount": 263301.4411,
+        "date": "2022-05-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ec3b159797a604a5",
+        "name": "Felicia Giles",
+        "type": "Income",
+        "amount": 264818.5039,
+        "date": "2022-05-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b74bd44e25528cce2",
+        "name": "Laurie Watson",
+        "type": "Outcome",
+        "amount": 11076.6475,
+        "date": "2022-05-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005512deba32c998493",
+        "name": "Black Dickerson",
+        "type": "Income",
+        "amount": 429785.3361,
+        "date": "2022-05-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7b2f7a685c02e640",
+        "name": "Lydia Sosa",
+        "type": "Outcome",
+        "amount": 979414.6813,
+        "date": "2022-05-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005525608b526cbb37f",
+        "name": "Tyler Rowland",
+        "type": "Income",
+        "amount": 477387.0324,
+        "date": "2022-05-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc605d4d3a739dc06",
+        "name": "Mai Scott",
+        "type": "Outcome",
+        "amount": 680078.4679,
+        "date": "2022-05-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005abc7943b4b6ab219",
+        "name": "Rosie Beard",
+        "type": "Income",
+        "amount": 891613.1356,
+        "date": "2022-05-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfaf47f43f31dd7fa",
+        "name": "Berger Reed",
+        "type": "Outcome",
+        "amount": 480215.1281,
+        "date": "2022-05-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054ea4f543b786f47f",
+        "name": "Clara Colon",
+        "type": "Income",
+        "amount": 987793.7235,
+        "date": "2022-05-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b88f164a18c2693c2",
+        "name": "Randolph Rich",
+        "type": "Outcome",
+        "amount": 250547.8936,
+        "date": "2022-05-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059796ede84c00ee98",
+        "name": "Claire Mullen",
+        "type": "Income",
+        "amount": 615422.209,
+        "date": "2022-05-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1236b436183b4cc3",
+        "name": "Whitney Conway",
+        "type": "Outcome",
+        "amount": 966633.1488,
+        "date": "2022-05-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ce9dd1d9acd814bd",
+        "name": "Jacklyn Jordan",
+        "type": "Income",
+        "amount": 591571.1695,
+        "date": "2022-05-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf00fcb239f568f10",
+        "name": "Araceli Baker",
+        "type": "Outcome",
+        "amount": 155285.6479,
+        "date": "2022-05-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005763fe6b8f3756a37",
+        "name": "Mae Lee",
+        "type": "Income",
+        "amount": 299518.3913,
+        "date": "2022-05-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbd2007ad5b8c5235",
+        "name": "Bianca Bowen",
+        "type": "Outcome",
+        "amount": 152944.8504,
+        "date": "2022-05-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057f593cb975323117",
+        "name": "Alba Hickman",
+        "type": "Income",
+        "amount": 80170.5257,
+        "date": "2022-05-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b409fbccc150ef267",
+        "name": "Trina Ray",
+        "type": "Outcome",
+        "amount": 668357.1732,
+        "date": "2022-05-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300578a4ddbd34bd87b8",
+        "name": "Patty Bender",
+        "type": "Income",
+        "amount": 428413.9588,
+        "date": "2022-05-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbe34bd8342ae7cc8",
+        "name": "Gertrude Morrow",
+        "type": "Outcome",
+        "amount": 583184.4571,
+        "date": "2022-05-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059f6b722e8e782b37",
+        "name": "Rivas Conley",
+        "type": "Income",
+        "amount": 882505.9404,
+        "date": "2022-05-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba2e217ab7450a58c",
+        "name": "Susanna Pugh",
+        "type": "Outcome",
+        "amount": 632201.3613,
+        "date": "2022-05-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055584105d64f0b857",
+        "name": "Julia Jensen",
+        "type": "Income",
+        "amount": 677162.5782,
+        "date": "2022-05-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be6fcce7c19bbe959",
+        "name": "Kim Mills",
+        "type": "Outcome",
+        "amount": 60971.956,
+        "date": "2022-05-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054d599a0399776a04",
+        "name": "Fischer Paul",
+        "type": "Income",
+        "amount": 637110.0351,
+        "date": "2022-05-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b116e4b7207302afb",
+        "name": "Patty Hunter",
+        "type": "Outcome",
+        "amount": 46424.8541,
+        "date": "2022-05-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300557d6c54bcf4a9cf5",
+        "name": "Betsy Mcknight",
+        "type": "Income",
+        "amount": 593103.0823,
+        "date": "2022-05-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4eeea695fa1eb23f",
+        "name": "Duncan Mason",
+        "type": "Outcome",
+        "amount": 509633.5494,
+        "date": "2022-05-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053e204fe55c954d85",
+        "name": "Vicky Brady",
+        "type": "Income",
+        "amount": 406847.0405,
+        "date": "2022-05-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc1b0056e84b18f91",
+        "name": "Wiggins Kirby",
+        "type": "Outcome",
+        "amount": 44885.7144,
+        "date": "2022-05-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ecd41149f591d15f",
+        "name": "Dena Hicks",
+        "type": "Income",
+        "amount": 126355.9223,
+        "date": "2022-05-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1e0a63376a0c5b6d",
+        "name": "Lidia Jackson",
+        "type": "Outcome",
+        "amount": 127659.1193,
+        "date": "2022-05-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a0b726ee26df3580",
+        "name": "Nicole Foster",
+        "type": "Income",
+        "amount": 111809.8151,
+        "date": "2022-05-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8eb8c95dd19c7458",
+        "name": "Dawson Tyson",
+        "type": "Outcome",
+        "amount": 25362.4196,
+        "date": "2022-05-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300543c026e3cfd2f841",
+        "name": "Maddox Landry",
+        "type": "Income",
+        "amount": 445155.7882,
+        "date": "2022-05-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0ab36445b29a288f",
+        "name": "Weiss Mckinney",
+        "type": "Outcome",
+        "amount": 965500.8088,
+        "date": "2022-05-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005978792c7829a2fdd",
+        "name": "Gay Holman",
+        "type": "Income",
+        "amount": 221045.7614,
+        "date": "2022-05-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7f00f041870e7f2f",
+        "name": "Carroll Finch",
+        "type": "Outcome",
+        "amount": 190223.3524,
+        "date": "2022-05-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053ae2cfa42d1f72b8",
+        "name": "Mavis Moreno",
+        "type": "Income",
+        "amount": 419130.6214,
+        "date": "2022-05-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be67f9871bebf5cc5",
+        "name": "Natalie Hardy",
+        "type": "Outcome",
+        "amount": 529718.5989,
+        "date": "2022-05-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052842f1dfba0b49f8",
+        "name": "Nellie Burton",
+        "type": "Income",
+        "amount": 613343.6721,
+        "date": "2022-05-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc4f128880a453c61",
+        "name": "Herring Carey",
+        "type": "Outcome",
+        "amount": 308920.896,
+        "date": "2022-05-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300537d73232afe37b6c",
+        "name": "Contreras King",
+        "type": "Income",
+        "amount": 207411.9801,
+        "date": "2022-05-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b33bf58a2ba979d96",
+        "name": "Jimenez Marks",
+        "type": "Outcome",
+        "amount": 838470.2704,
+        "date": "2022-05-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005221528038b2605c3",
+        "name": "Keisha Vaughn",
+        "type": "Income",
+        "amount": 430741.0759,
+        "date": "2022-05-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b400e026a5657e4ed",
+        "name": "Kelly Murphy",
+        "type": "Outcome",
+        "amount": 488184.2311,
+        "date": "2022-05-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300570e1c950b4a54d1a",
+        "name": "Whitehead Knight",
+        "type": "Income",
+        "amount": 683795.5011,
+        "date": "2022-05-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bda46831c5d991214",
+        "name": "Tina Mccall",
+        "type": "Outcome",
+        "amount": 463901.9535,
+        "date": "2022-05-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054074d77654accaa1",
+        "name": "Barber Wolf",
+        "type": "Income",
+        "amount": 150735.5905,
+        "date": "2022-04-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd6c4d7c95a6aae7f",
+        "name": "Kellie Sweeney",
+        "type": "Outcome",
+        "amount": 626803.2975,
+        "date": "2022-04-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300523b13731789f5c67",
+        "name": "Charity Miller",
+        "type": "Income",
+        "amount": 812778.0546,
+        "date": "2022-04-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf1f7660ff2840974",
+        "name": "Hazel Mcpherson",
+        "type": "Outcome",
+        "amount": 364981.3535,
+        "date": "2022-04-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054359c62bd8c75e74",
+        "name": "Olivia Craft",
+        "type": "Income",
+        "amount": 803020.425,
+        "date": "2022-04-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bba5b6e5505be237c",
+        "name": "Lorraine Hampton",
+        "type": "Outcome",
+        "amount": 249413.4666,
+        "date": "2022-04-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f2c72e58cdcb2a18",
+        "name": "Valerie Contreras",
+        "type": "Income",
+        "amount": 203790.5108,
+        "date": "2022-04-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b73ab613265a69dbe",
+        "name": "Jeannette Harvey",
+        "type": "Outcome",
+        "amount": 445897.8638,
+        "date": "2022-04-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a4cf2e27958a2220",
+        "name": "Sherman Wilkerson",
+        "type": "Income",
+        "amount": 746973.4585,
+        "date": "2022-04-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9e5462fb81ed9cdb",
+        "name": "Brittany Bates",
+        "type": "Outcome",
+        "amount": 338701.0366,
+        "date": "2022-04-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ab8797dab7896f6f",
+        "name": "Kemp Roman",
+        "type": "Income",
+        "amount": 558883.7348,
+        "date": "2022-04-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb20ed5cd64a43f5e",
+        "name": "Kathrine Pittman",
+        "type": "Outcome",
+        "amount": 311755.4667,
+        "date": "2022-04-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a53488f01b9f9bf9",
+        "name": "Donna Pittman",
+        "type": "Income",
+        "amount": 334106.6195,
+        "date": "2022-04-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b51211e0b72e5c993",
+        "name": "Irene Richardson",
+        "type": "Outcome",
+        "amount": 830725.4402,
+        "date": "2022-04-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055609fdbc435096b7",
+        "name": "Goff Schroeder",
+        "type": "Income",
+        "amount": 474266.9014,
+        "date": "2022-04-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b78d5ebfda67b0468",
+        "name": "Koch Durham",
+        "type": "Outcome",
+        "amount": 486822.0732,
+        "date": "2022-04-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053c60efa6a1befc01",
+        "name": "Leonor Oneill",
+        "type": "Income",
+        "amount": 885037.0135,
+        "date": "2022-04-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8e86c2bcc45e9345",
+        "name": "Gardner Carney",
+        "type": "Outcome",
+        "amount": 947449.3104,
+        "date": "2022-04-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058f4336d9e81235b3",
+        "name": "Fern Deleon",
+        "type": "Income",
+        "amount": 468071.2774,
+        "date": "2022-04-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302befd61f08e3538e35",
+        "name": "Hannah Bentley",
+        "type": "Outcome",
+        "amount": 116746.2371,
+        "date": "2022-04-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054d64f562db4dc1e2",
+        "name": "Bryant Sykes",
+        "type": "Income",
+        "amount": 817832.5629,
+        "date": "2022-04-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b15defb9683abba3e",
+        "name": "Weeks Bennett",
+        "type": "Outcome",
+        "amount": 364335.0148,
+        "date": "2022-04-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e00db00398e645d5",
+        "name": "Mari Riddle",
+        "type": "Income",
+        "amount": 430605.791,
+        "date": "2022-04-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be6f392ac9c40afdb",
+        "name": "Frankie Valenzuela",
+        "type": "Outcome",
+        "amount": 388671.8846,
+        "date": "2022-04-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300527f2c76b61aab6af",
+        "name": "Strong Reese",
+        "type": "Income",
+        "amount": 319961.3192,
+        "date": "2022-04-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0965dc877d978897",
+        "name": "Cote Odonnell",
+        "type": "Outcome",
+        "amount": 589421.2582,
+        "date": "2022-04-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058ea0ecd14bc0cc7b",
+        "name": "Nielsen Mcclain",
+        "type": "Income",
+        "amount": 721173.2714,
+        "date": "2022-04-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5eab1d117a502191",
+        "name": "Russo Reeves",
+        "type": "Outcome",
+        "amount": 880445.5245,
+        "date": "2022-04-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058f49f3909fb2b8bf",
+        "name": "Kirk Huber",
+        "type": "Income",
+        "amount": 285947.0196,
+        "date": "2022-04-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b40d7a46256a6c31a",
+        "name": "Copeland Cervantes",
+        "type": "Outcome",
+        "amount": 75130.3517,
+        "date": "2022-04-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005288fec4f11caea59",
+        "name": "Tisha Howell",
+        "type": "Income",
+        "amount": 979491.8527,
+        "date": "2022-04-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf013433679cac775",
+        "name": "Bruce Bond",
+        "type": "Outcome",
+        "amount": 939366.7971,
+        "date": "2022-04-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c1572ca247e59e8e",
+        "name": "Kerr Delacruz",
+        "type": "Income",
+        "amount": 893615.9413,
+        "date": "2022-04-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b82a420c7922da3bc",
+        "name": "Christian Walters",
+        "type": "Outcome",
+        "amount": 669488.9384,
+        "date": "2022-04-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d902d964e193c4ae",
+        "name": "Gonzalez Byers",
+        "type": "Income",
+        "amount": 488132.1606,
+        "date": "2022-04-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2c5704e576c31a9b",
+        "name": "Morse Meadows",
+        "type": "Outcome",
+        "amount": 745528.9486,
+        "date": "2022-04-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300567fa08e95a56449a",
+        "name": "Lacey Dunlap",
+        "type": "Income",
+        "amount": 511996.8035,
+        "date": "2022-04-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bad48c56c17726ac2",
+        "name": "Ashley Larson",
+        "type": "Outcome",
+        "amount": 401615.8738,
+        "date": "2022-04-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f2cbba481ba6d4af",
+        "name": "Osborn Ratliff",
+        "type": "Income",
+        "amount": 144784.7331,
+        "date": "2022-04-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1685d3fd2183fdda",
+        "name": "Verna Fowler",
+        "type": "Outcome",
+        "amount": 516082.1885,
+        "date": "2022-04-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005efdd200eb2dc4f9d",
+        "name": "Mullen Gilliam",
+        "type": "Income",
+        "amount": 396219.0685,
+        "date": "2022-04-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b19443a935745bbd6",
+        "name": "Judith Delacruz",
+        "type": "Outcome",
+        "amount": 794223.3616,
+        "date": "2022-04-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005166da50bd32c5549",
+        "name": "Celia Rosa",
+        "type": "Income",
+        "amount": 728007.001,
+        "date": "2022-04-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b30007f42778c81d2",
+        "name": "Luisa Zamora",
+        "type": "Outcome",
+        "amount": 409617.8982,
+        "date": "2022-04-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d21dd7feb4c7311d",
+        "name": "Meredith Mccarty",
+        "type": "Income",
+        "amount": 268302.2892,
+        "date": "2022-04-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bce355efc5062c171",
+        "name": "Jenkins Rios",
+        "type": "Outcome",
+        "amount": 621003.5539,
+        "date": "2022-04-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056d4f2add3895de80",
+        "name": "Hughes Fuller",
+        "type": "Income",
+        "amount": 99231.634,
+        "date": "2022-04-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd976d96ddea24966",
+        "name": "Sweet Marquez",
+        "type": "Outcome",
+        "amount": 648827.8337,
+        "date": "2022-04-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005549a26dd87919871",
+        "name": "Lawson Barton",
+        "type": "Income",
+        "amount": 817127.4629,
+        "date": "2022-04-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b20e0aaf401a1886f",
+        "name": "Hurley Jordan",
+        "type": "Outcome",
+        "amount": 823249.4611,
+        "date": "2022-04-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054daca1ea5db10b68",
+        "name": "Marsha Valentine",
+        "type": "Income",
+        "amount": 126416.2374,
+        "date": "2022-04-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1095ebdc45250e77",
+        "name": "Suzanne Shepard",
+        "type": "Outcome",
+        "amount": 701267.773,
+        "date": "2022-04-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c8e86024c3914cbe",
+        "name": "Singleton Sherman",
+        "type": "Income",
+        "amount": 861789.3367,
+        "date": "2022-04-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb9d1fcdd5e23496d",
+        "name": "Cleveland Merrill",
+        "type": "Outcome",
+        "amount": 175783.4075,
+        "date": "2022-04-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ac768946c1ba97ca",
+        "name": "Tabatha Puckett",
+        "type": "Income",
+        "amount": 579123.9442,
+        "date": "2022-04-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1d98de22a76c82ad",
+        "name": "Mercedes Hartman",
+        "type": "Outcome",
+        "amount": 465935.524,
+        "date": "2022-04-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c8b870477f98e5ad",
+        "name": "Mcbride Warner",
+        "type": "Income",
+        "amount": 198251.2596,
+        "date": "2022-04-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be48719ffd344fd96",
+        "name": "Jenna Hardin",
+        "type": "Outcome",
+        "amount": 636210.0888,
+        "date": "2022-04-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300560288a955ffacbbd",
+        "name": "Kim Bullock",
+        "type": "Income",
+        "amount": 836649.5644,
+        "date": "2022-04-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc1c4b5b3351cc71f",
+        "name": "Sally Brennan",
+        "type": "Outcome",
+        "amount": 646395.1024,
+        "date": "2022-04-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058ce45ec0e0dc37a9",
+        "name": "Deleon Aguilar",
+        "type": "Income",
+        "amount": 316965.343,
+        "date": "2022-03-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2cb935fe81329c96",
+        "name": "Allie Wagner",
+        "type": "Outcome",
+        "amount": 529414.7506,
+        "date": "2022-03-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057dbe9cb9d97ab922",
+        "name": "Cecilia Beach",
+        "type": "Income",
+        "amount": 871103.0549,
+        "date": "2022-03-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4f386b70481857f8",
+        "name": "Richards Clark",
+        "type": "Outcome",
+        "amount": 49734.6342,
+        "date": "2022-03-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e6e8e38e984440e9",
+        "name": "Branch Hopkins",
+        "type": "Income",
+        "amount": 725578.4422,
+        "date": "2022-03-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9f9e6712859b78b5",
+        "name": "Campbell Evans",
+        "type": "Outcome",
+        "amount": 37647.8322,
+        "date": "2022-03-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300545ff6ceb337a85c5",
+        "name": "Jerri Vaughan",
+        "type": "Income",
+        "amount": 457275.9796,
+        "date": "2022-03-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b83b4df5a87553235",
+        "name": "Corina Armstrong",
+        "type": "Outcome",
+        "amount": 282174.128,
+        "date": "2022-03-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005902824f24a8d8bba",
+        "name": "Massey Mcpherson",
+        "type": "Income",
+        "amount": 371625.8412,
+        "date": "2022-03-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b66aa8cf107248e7a",
+        "name": "Medina Goodwin",
+        "type": "Outcome",
+        "amount": 448381.906,
+        "date": "2022-03-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a69efaba22c767be",
+        "name": "Eleanor Randall",
+        "type": "Income",
+        "amount": 686795.3127,
+        "date": "2022-03-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd5dfbcdf9331d577",
+        "name": "Bolton Hester",
+        "type": "Outcome",
+        "amount": 761176.8641,
+        "date": "2022-03-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005112bd158e427584e",
+        "name": "Jones Pate",
+        "type": "Income",
+        "amount": 54808.7725,
+        "date": "2022-03-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdbc1c45038215277",
+        "name": "Gracie Vaughn",
+        "type": "Outcome",
+        "amount": 20678.0834,
+        "date": "2022-03-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053787ee4f533c5343",
+        "name": "Lancaster Slater",
+        "type": "Income",
+        "amount": 25968.0757,
+        "date": "2022-03-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be1a840181c59926f",
+        "name": "Hendrix Harding",
+        "type": "Outcome",
+        "amount": 313985.9602,
+        "date": "2022-03-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300587bad4067d3ae301",
+        "name": "Garrett Walters",
+        "type": "Income",
+        "amount": 359567.294,
+        "date": "2022-03-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdbcc6fa6ee029d4c",
+        "name": "Cora Michael",
+        "type": "Outcome",
+        "amount": 624014.5648,
+        "date": "2022-03-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a1f214632e10c0d4",
+        "name": "Dollie Raymond",
+        "type": "Income",
+        "amount": 705404.0403,
+        "date": "2022-03-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfb802f6e463d7a78",
+        "name": "Jimmie Gordon",
+        "type": "Outcome",
+        "amount": 775314.0104,
+        "date": "2022-03-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cd71da5e40f2df9e",
+        "name": "Tania Galloway",
+        "type": "Income",
+        "amount": 410030.9003,
+        "date": "2022-03-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb65c74ffc01ae3f2",
+        "name": "Simmons Wiggins",
+        "type": "Outcome",
+        "amount": 844370.4281,
+        "date": "2022-03-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053e556d159e74985c",
+        "name": "Avery Bradley",
+        "type": "Income",
+        "amount": 275348.6895,
+        "date": "2022-03-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7d06881f823f6f7e",
+        "name": "Glenda William",
+        "type": "Outcome",
+        "amount": 874304.3367,
+        "date": "2022-03-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005063c208fe0845d88",
+        "name": "Woodard Carney",
+        "type": "Income",
+        "amount": 311938.768,
+        "date": "2022-03-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5fd5651f3c8b628b",
+        "name": "Allison Morse",
+        "type": "Outcome",
+        "amount": 756673.6188,
+        "date": "2022-03-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e4363e74be5c8ad1",
+        "name": "Allison Berg",
+        "type": "Income",
+        "amount": 281435.3787,
+        "date": "2022-03-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b65168c4b53cd4039",
+        "name": "Bernard Mclaughlin",
+        "type": "Outcome",
+        "amount": 817182.6867,
+        "date": "2022-03-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005747856fe2c229fba",
+        "name": "Jaime Wallace",
+        "type": "Income",
+        "amount": 527162.127,
+        "date": "2022-03-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302baf8d986937f12f50",
+        "name": "Spencer Bender",
+        "type": "Outcome",
+        "amount": 703800.5381,
+        "date": "2022-03-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300536f526435eba7b96",
+        "name": "Bobbi Hopper",
+        "type": "Income",
+        "amount": 124686.2898,
+        "date": "2022-03-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0257bcdbf37a1f73",
+        "name": "Shaw Collier",
+        "type": "Outcome",
+        "amount": 975535.9208,
+        "date": "2022-03-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a77555af00b88243",
+        "name": "Meagan Strong",
+        "type": "Income",
+        "amount": 410849.5801,
+        "date": "2022-03-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8bc679c0e49afadd",
+        "name": "Millicent Dickerson",
+        "type": "Outcome",
+        "amount": 933680.856,
+        "date": "2022-03-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c1d15bce9c9243ce",
+        "name": "Pope Lopez",
+        "type": "Income",
+        "amount": 700079.0957,
+        "date": "2022-03-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0b727cf2b394aab0",
+        "name": "Mabel Wong",
+        "type": "Outcome",
+        "amount": 23291.1497,
+        "date": "2022-03-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c4193d43ffd7f2cb",
+        "name": "Lindsey Haney",
+        "type": "Income",
+        "amount": 440334.6524,
+        "date": "2022-03-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b678afadae559c358",
+        "name": "Gwendolyn Snyder",
+        "type": "Outcome",
+        "amount": 523931.8819,
+        "date": "2022-03-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051e0533c79b74489f",
+        "name": "Barry Barnett",
+        "type": "Income",
+        "amount": 602260.8532,
+        "date": "2022-03-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b86394d87b58b31d6",
+        "name": "Betty Parsons",
+        "type": "Outcome",
+        "amount": 641566.368,
+        "date": "2022-03-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b169cfcd8b64e7bc",
+        "name": "Stacy Adkins",
+        "type": "Income",
+        "amount": 849150.4566,
+        "date": "2022-03-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b30e35c51d22eb1d2",
+        "name": "Sherman Manning",
+        "type": "Outcome",
+        "amount": 125872.0216,
+        "date": "2022-03-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050b542b4ac59a9162",
+        "name": "Lynn Perry",
+        "type": "Income",
+        "amount": 963887.8579,
+        "date": "2022-03-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b23669aea8c4fbb29",
+        "name": "Sonja Lucas",
+        "type": "Outcome",
+        "amount": 998170.8714,
+        "date": "2022-03-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005446f0cf94b5de798",
+        "name": "Nichole Roberson",
+        "type": "Income",
+        "amount": 514205.1638,
+        "date": "2022-03-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba4215326e9950580",
+        "name": "Tricia Adkins",
+        "type": "Outcome",
+        "amount": 500413.989,
+        "date": "2022-03-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ad44fec81a555a46",
+        "name": "Rice Leach",
+        "type": "Income",
+        "amount": 196089.4704,
+        "date": "2022-03-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb17798e32caadb18",
+        "name": "Charles Chang",
+        "type": "Outcome",
+        "amount": 377211.3687,
+        "date": "2022-03-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f8dc3940b68332ad",
+        "name": "Fry Franco",
+        "type": "Income",
+        "amount": 488445.6946,
+        "date": "2022-03-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5306e6aadb0fa728",
+        "name": "Kari Kane",
+        "type": "Outcome",
+        "amount": 783564.6946,
+        "date": "2022-03-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c1c34bf9292752b5",
+        "name": "Haley Whitehead",
+        "type": "Income",
+        "amount": 878150.2979,
+        "date": "2022-03-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b541fa6babb3dd672",
+        "name": "Love Roach",
+        "type": "Outcome",
+        "amount": 41769.8468,
+        "date": "2022-03-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050f408849a7e6bd2d",
+        "name": "Araceli Sanchez",
+        "type": "Income",
+        "amount": 742378.5282,
+        "date": "2022-03-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3accdc36a5e7ac5a",
+        "name": "Pratt Rush",
+        "type": "Outcome",
+        "amount": 466259.4302,
+        "date": "2022-03-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005025df3a15ae88322",
+        "name": "Hahn Whitfield",
+        "type": "Income",
+        "amount": 527254.0204,
+        "date": "2022-03-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7ca731ee1d0b5836",
+        "name": "Alston Neal",
+        "type": "Outcome",
+        "amount": 540056.0052,
+        "date": "2022-03-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050345f01e3d60b6b8",
+        "name": "Christensen Chapman",
+        "type": "Income",
+        "amount": 395395.2012,
+        "date": "2022-03-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfe3e6db69123d3bd",
+        "name": "Louisa Nelson",
+        "type": "Outcome",
+        "amount": 253876.4199,
+        "date": "2022-03-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056c80efa925ca9805",
+        "name": "Sallie Barker",
+        "type": "Income",
+        "amount": 670282.1906,
+        "date": "2022-03-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b67a4e1f0f6570289",
+        "name": "Lorie Johnston",
+        "type": "Outcome",
+        "amount": 601668.5194,
+        "date": "2022-03-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056a68092b4663c2f0",
+        "name": "Mosley Hebert",
+        "type": "Income",
+        "amount": 427458.5004,
+        "date": "2022-03-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba884f024a3a31f85",
+        "name": "Reid Gross",
+        "type": "Outcome",
+        "amount": 944923.1325,
+        "date": "2022-03-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f66d900713fbe58b",
+        "name": "Nita Bray",
+        "type": "Income",
+        "amount": 573595.6459,
+        "date": "2022-02-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8346c071a4df5c53",
+        "name": "Mccoy Roman",
+        "type": "Outcome",
+        "amount": 163351.89,
+        "date": "2022-02-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c3393909f8c13d1a",
+        "name": "Rhonda Travis",
+        "type": "Income",
+        "amount": 22604.5517,
+        "date": "2022-02-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0b2084ae626a651b",
+        "name": "Kristie Marshall",
+        "type": "Outcome",
+        "amount": 567678.4168,
+        "date": "2022-02-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e29996b8a01422fd",
+        "name": "Neva Munoz",
+        "type": "Income",
+        "amount": 724170.9622,
+        "date": "2022-02-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be885465c24acb335",
+        "name": "Clarke West",
+        "type": "Outcome",
+        "amount": 961268.8275,
+        "date": "2022-02-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005419e371df5afb1de",
+        "name": "Franco Moran",
+        "type": "Income",
+        "amount": 316128.9807,
+        "date": "2022-02-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9ed63225a739bd89",
+        "name": "Peck Lane",
+        "type": "Outcome",
+        "amount": 974938.0495,
+        "date": "2022-02-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058bf216794277045b",
+        "name": "Kristen Wade",
+        "type": "Income",
+        "amount": 28013.3472,
+        "date": "2022-02-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8b507bf301a190b3",
+        "name": "Rosalinda Britt",
+        "type": "Outcome",
+        "amount": 45894.5575,
+        "date": "2022-02-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d984945825b1496f",
+        "name": "Alexis Rasmussen",
+        "type": "Income",
+        "amount": 237626.6663,
+        "date": "2022-02-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5e6b5a8690c16529",
+        "name": "Bradshaw Caldwell",
+        "type": "Outcome",
+        "amount": 876461.6253,
+        "date": "2022-02-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059a4345f99535b23d",
+        "name": "Cox Rich",
+        "type": "Income",
+        "amount": 624129.2296,
+        "date": "2022-02-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b087546464b07175f",
+        "name": "Kristine Huff",
+        "type": "Outcome",
+        "amount": 658722.0826,
+        "date": "2022-02-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300533b8e83c50581f3b",
+        "name": "Earline Mayer",
+        "type": "Income",
+        "amount": 967263.2873,
+        "date": "2022-02-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcfb8a05f0e794bb7",
+        "name": "Bertha Daugherty",
+        "type": "Outcome",
+        "amount": 484283.1736,
+        "date": "2022-02-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d59f33c6eb423d8a",
+        "name": "Rhodes Burris",
+        "type": "Income",
+        "amount": 622405.9943,
+        "date": "2022-02-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b65c9e1edf11afb08",
+        "name": "Trudy Medina",
+        "type": "Outcome",
+        "amount": 901185.8556,
+        "date": "2022-02-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054132ca748ae37aca",
+        "name": "Rosanne Mcleod",
+        "type": "Income",
+        "amount": 208915.2744,
+        "date": "2022-02-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b62a0dc189d0f9239",
+        "name": "Cantu Gill",
+        "type": "Outcome",
+        "amount": 848913.29,
+        "date": "2022-02-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052cd9a668f7a4dab6",
+        "name": "Beck Case",
+        "type": "Income",
+        "amount": 495076.674,
+        "date": "2022-02-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfa5d6e14db424cc0",
+        "name": "Vera Hubbard",
+        "type": "Outcome",
+        "amount": 799275.9343,
+        "date": "2022-02-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005844598e7d5af307f",
+        "name": "Burt Odom",
+        "type": "Income",
+        "amount": 337823.9483,
+        "date": "2022-02-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302baa750f88db917c3e",
+        "name": "Lang Cantu",
+        "type": "Outcome",
+        "amount": 704103.7375,
+        "date": "2022-02-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051093174e74eb2009",
+        "name": "Betty Kelly",
+        "type": "Income",
+        "amount": 522452.0091,
+        "date": "2022-02-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b193d74dc07e19cdf",
+        "name": "Aurora England",
+        "type": "Outcome",
+        "amount": 597754.1006,
+        "date": "2022-02-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005677090d011a72cd8",
+        "name": "Josefa Keller",
+        "type": "Income",
+        "amount": 929184.0461,
+        "date": "2022-02-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7d8e393f792c0bbe",
+        "name": "Vazquez Coleman",
+        "type": "Outcome",
+        "amount": 393187.4646,
+        "date": "2022-02-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053e34d81fc27cd95f",
+        "name": "Carrillo Watson",
+        "type": "Income",
+        "amount": 895749.1459,
+        "date": "2022-02-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b00463ebacd9d30fb",
+        "name": "Melva Burton",
+        "type": "Outcome",
+        "amount": 971094.7668,
+        "date": "2022-02-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300549b1678cb1f09b16",
+        "name": "Mcdowell Stevenson",
+        "type": "Income",
+        "amount": 984052.7124,
+        "date": "2022-02-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b97940ad2244b367d",
+        "name": "Hartman Wolfe",
+        "type": "Outcome",
+        "amount": 134960.9392,
+        "date": "2022-02-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005417782c1d5ef5e27",
+        "name": "Leah Graves",
+        "type": "Income",
+        "amount": 409966.0174,
+        "date": "2022-02-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be1f6fd14deb13dd9",
+        "name": "Nanette Knowles",
+        "type": "Outcome",
+        "amount": 64144.7014,
+        "date": "2022-02-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300591ed8679699ebee4",
+        "name": "Russo Holt",
+        "type": "Income",
+        "amount": 345428.1215,
+        "date": "2022-02-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6cce93e5e3258c67",
+        "name": "Foster Wall",
+        "type": "Outcome",
+        "amount": 702589.8327,
+        "date": "2022-02-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300518a9ef0ba44083bc",
+        "name": "Rodriguez William",
+        "type": "Income",
+        "amount": 134239.111,
+        "date": "2022-02-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b06fed0c9b2933d39",
+        "name": "Mccullough Holden",
+        "type": "Outcome",
+        "amount": 861243.8278,
+        "date": "2022-02-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052f57a36d7675b877",
+        "name": "Wilson Wise",
+        "type": "Income",
+        "amount": 110535.5141,
+        "date": "2022-02-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7028e00abdbd706c",
+        "name": "Robbins Blanchard",
+        "type": "Outcome",
+        "amount": 82486.3673,
+        "date": "2022-02-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300585b7603a3a38d27f",
+        "name": "Bernadine Mcfarland",
+        "type": "Income",
+        "amount": 526996.5333,
+        "date": "2022-02-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b73dc8dbd06526474",
+        "name": "Gamble Battle",
+        "type": "Outcome",
+        "amount": 851341.5399,
+        "date": "2022-02-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cece5f70cb9dfd6a",
+        "name": "Lillie Fox",
+        "type": "Income",
+        "amount": 88545.4859,
+        "date": "2022-02-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2321e426a30c77bc",
+        "name": "Susana Hewitt",
+        "type": "Outcome",
+        "amount": 192186.6837,
+        "date": "2022-02-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005017aeb2653779f90",
+        "name": "Taylor Bell",
+        "type": "Income",
+        "amount": 823970.3942,
+        "date": "2022-02-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd5ae9c049fe4bcbc",
+        "name": "Spears Parrish",
+        "type": "Outcome",
+        "amount": 773516.7418,
+        "date": "2022-02-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300541373ca0d52b8f64",
+        "name": "Jill Kirkland",
+        "type": "Income",
+        "amount": 246682.3809,
+        "date": "2022-02-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b17dcca2913f02e7b",
+        "name": "Wiley Weber",
+        "type": "Outcome",
+        "amount": 248548.3147,
+        "date": "2022-02-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058a1c19199eb2fd95",
+        "name": "Rosa Olsen",
+        "type": "Income",
+        "amount": 950190.1345,
+        "date": "2022-02-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba612bd62a1f3b207",
+        "name": "Margery Guthrie",
+        "type": "Outcome",
+        "amount": 270236.8339,
+        "date": "2022-02-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300571bd865a2a7b1e3c",
+        "name": "Conway Ortiz",
+        "type": "Income",
+        "amount": 183828.3761,
+        "date": "2022-02-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b40f246b2b2d4cb76",
+        "name": "Conley Long",
+        "type": "Outcome",
+        "amount": 797927.822,
+        "date": "2022-02-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057697f162e259155d",
+        "name": "Rebekah Stone",
+        "type": "Income",
+        "amount": 855550.3502,
+        "date": "2022-02-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfac239de383bb6d1",
+        "name": "Marcia Case",
+        "type": "Outcome",
+        "amount": 540692.4293,
+        "date": "2022-02-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ac5bc014b59c096c",
+        "name": "Jimenez Eaton",
+        "type": "Income",
+        "amount": 773774.2022,
+        "date": "2022-02-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8c4a6adc88d0057e",
+        "name": "Shannon Steele",
+        "type": "Outcome",
+        "amount": 832841.2769,
+        "date": "2022-02-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b2c3ec1ee135f695",
+        "name": "English Murray",
+        "type": "Income",
+        "amount": 587873.0937,
+        "date": "2022-01-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b778889caf789765b",
+        "name": "Burton Miles",
+        "type": "Outcome",
+        "amount": 521873.8221,
+        "date": "2022-01-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005370452b20bbd5052",
+        "name": "Young Gilbert",
+        "type": "Income",
+        "amount": 663217.4635,
+        "date": "2022-01-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6f896f1e40a44394",
+        "name": "May Barnett",
+        "type": "Outcome",
+        "amount": 866376.6226,
+        "date": "2022-01-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300503e4c8eef5d98b01",
+        "name": "Rachael Mosley",
+        "type": "Income",
+        "amount": 952092.2829,
+        "date": "2022-01-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0102c65781644146",
+        "name": "Banks Hayden",
+        "type": "Outcome",
+        "amount": 583392.3262,
+        "date": "2022-01-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056aa2713e39fefe02",
+        "name": "Malinda Fletcher",
+        "type": "Income",
+        "amount": 390806.7004,
+        "date": "2022-01-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bce458540ca30f28c",
+        "name": "Jerri Blackburn",
+        "type": "Outcome",
+        "amount": 484625.2125,
+        "date": "2022-01-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e8a50284a1421053",
+        "name": "Helena Lara",
+        "type": "Income",
+        "amount": 370149.092,
+        "date": "2022-01-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b87fc90851c89505f",
+        "name": "Rutledge Haley",
+        "type": "Outcome",
+        "amount": 644471.9871,
+        "date": "2022-01-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ddc8dce4a2a57c81",
+        "name": "Cochran Pruitt",
+        "type": "Income",
+        "amount": 725826.6739,
+        "date": "2022-01-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5eb90fd6c2aef0c9",
+        "name": "Watts Humphrey",
+        "type": "Outcome",
+        "amount": 415637.6221,
+        "date": "2022-01-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005acd5c13120288a55",
+        "name": "Lidia Hood",
+        "type": "Income",
+        "amount": 22934.1261,
+        "date": "2022-01-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bda7f05815a2d9c9f",
+        "name": "Socorro Reynolds",
+        "type": "Outcome",
+        "amount": 186826.1586,
+        "date": "2022-01-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005707658d25f4eaca4",
+        "name": "Jordan Berger",
+        "type": "Income",
+        "amount": 199964.6462,
+        "date": "2022-01-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b673eda8992ae12d6",
+        "name": "Alyson Pruitt",
+        "type": "Outcome",
+        "amount": 508897.7382,
+        "date": "2022-01-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b9b06ba61cbe42f7",
+        "name": "Helga Arnold",
+        "type": "Income",
+        "amount": 8860.9179,
+        "date": "2022-01-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9c4a2ac9f67cbab0",
+        "name": "Hoover Stanley",
+        "type": "Outcome",
+        "amount": 34780.4749,
+        "date": "2022-01-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b6bffa5179d0dca5",
+        "name": "Ester Wheeler",
+        "type": "Income",
+        "amount": 114254.2927,
+        "date": "2022-01-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b18a2a0db5a0e7655",
+        "name": "Lenore Pace",
+        "type": "Outcome",
+        "amount": 954526.3216,
+        "date": "2022-01-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ebd5b079f0cbbe87",
+        "name": "Evangelina Newton",
+        "type": "Income",
+        "amount": 631943.6454,
+        "date": "2022-01-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf9049c673362d230",
+        "name": "Tammy Knox",
+        "type": "Outcome",
+        "amount": 120214.8036,
+        "date": "2022-01-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e123ba90a42a1b59",
+        "name": "Pauline Sweeney",
+        "type": "Income",
+        "amount": 47654.7363,
+        "date": "2022-01-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf8bd506588416d5e",
+        "name": "Leola Dominguez",
+        "type": "Outcome",
+        "amount": 478011.3615,
+        "date": "2022-01-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a057dbfb50395e1b",
+        "name": "Carey Solis",
+        "type": "Income",
+        "amount": 215057.1114,
+        "date": "2022-01-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1eedd0d2e67966bc",
+        "name": "Kerr King",
+        "type": "Outcome",
+        "amount": 166543.8862,
+        "date": "2022-01-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055a510e88afdb1592",
+        "name": "Nell Kemp",
+        "type": "Income",
+        "amount": 478535.6105,
+        "date": "2022-01-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b22daa28f392583cf",
+        "name": "Cook Rhodes",
+        "type": "Outcome",
+        "amount": 416593.8024,
+        "date": "2022-01-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051689158b7638a1da",
+        "name": "Houston Hogan",
+        "type": "Income",
+        "amount": 5415.6078,
+        "date": "2022-01-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb9f48fdee4eac6da",
+        "name": "Cunningham Reilly",
+        "type": "Outcome",
+        "amount": 823327.9005,
+        "date": "2022-01-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059720aa6af49b1404",
+        "name": "Peggy Coleman",
+        "type": "Income",
+        "amount": 419501.7796,
+        "date": "2022-01-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2b3773093824377b",
+        "name": "Irma Mcdowell",
+        "type": "Outcome",
+        "amount": 487995.7366,
+        "date": "2022-01-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005516e45f32dec1931",
+        "name": "Harriet Odonnell",
+        "type": "Income",
+        "amount": 9828.0185,
+        "date": "2022-01-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd2960580e7ebe24a",
+        "name": "Webster Bauer",
+        "type": "Outcome",
+        "amount": 781807.5826,
+        "date": "2022-01-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005907999f80671c54a",
+        "name": "Charmaine Booth",
+        "type": "Income",
+        "amount": 397044.3958,
+        "date": "2022-01-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b27639c9f81ddd997",
+        "name": "Cheryl Wright",
+        "type": "Outcome",
+        "amount": 625537.355,
+        "date": "2022-01-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a7ec4a813abba69f",
+        "name": "Giles Meyer",
+        "type": "Income",
+        "amount": 869122.2247,
+        "date": "2022-01-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b41ca6d9535818476",
+        "name": "Angela Martin",
+        "type": "Outcome",
+        "amount": 218950.9834,
+        "date": "2022-01-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056a1c9dffa00aae6b",
+        "name": "Sandra Morrison",
+        "type": "Income",
+        "amount": 328145.1828,
+        "date": "2022-01-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba6a965b0c5849d07",
+        "name": "Brittney Crawford",
+        "type": "Outcome",
+        "amount": 866996.2989,
+        "date": "2022-01-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300575627bf046716473",
+        "name": "Booker Park",
+        "type": "Income",
+        "amount": 278981.785,
+        "date": "2022-01-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b00a5716008939a3f",
+        "name": "Betsy Cameron",
+        "type": "Outcome",
+        "amount": 33003.4075,
+        "date": "2022-01-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c7c467d5ff96819d",
+        "name": "Stokes Jimenez",
+        "type": "Income",
+        "amount": 249018.5156,
+        "date": "2022-01-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6e61453c473e9e5e",
+        "name": "Cohen Chandler",
+        "type": "Outcome",
+        "amount": 18291.4067,
+        "date": "2022-01-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f4862294a01ce587",
+        "name": "Casandra Mendoza",
+        "type": "Income",
+        "amount": 726507.0568,
+        "date": "2022-01-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b09ffa77afcaa2ff7",
+        "name": "Emily Hughes",
+        "type": "Outcome",
+        "amount": 945676.7088,
+        "date": "2022-01-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bb72112672c90e06",
+        "name": "Pena Soto",
+        "type": "Income",
+        "amount": 470440.5442,
+        "date": "2022-01-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b81f060f6bd6acfaa",
+        "name": "Sosa Blankenship",
+        "type": "Outcome",
+        "amount": 800355.2656,
+        "date": "2022-01-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f5b2537270bf654f",
+        "name": "Amy Patel",
+        "type": "Income",
+        "amount": 958465.9758,
+        "date": "2022-01-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdf4ea21a0bfd1ee9",
+        "name": "Thompson Mccarthy",
+        "type": "Outcome",
+        "amount": 936876.0789,
+        "date": "2022-01-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057c24909bbdedca82",
+        "name": "Craft Coffey",
+        "type": "Income",
+        "amount": 879380.8616,
+        "date": "2022-01-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba0250ed11d83f1dd",
+        "name": "Mccormick Puckett",
+        "type": "Outcome",
+        "amount": 484944.5598,
+        "date": "2022-01-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cd2f2872c3586ffd",
+        "name": "Abbott Mcfadden",
+        "type": "Income",
+        "amount": 6497.3365,
+        "date": "2022-01-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b529944b6062551ff",
+        "name": "Anthony Turner",
+        "type": "Outcome",
+        "amount": 741883.0403,
+        "date": "2022-01-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005070fbe1366b4669d",
+        "name": "Ebony Jennings",
+        "type": "Income",
+        "amount": 252532.8576,
+        "date": "2022-01-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd6a5a4fb679e1d22",
+        "name": "Bobbi Dyer",
+        "type": "Outcome",
+        "amount": 706521.5557,
+        "date": "2022-01-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300536616e42b8bb0bc7",
+        "name": "Aurora Maxwell",
+        "type": "Income",
+        "amount": 858910.8833,
+        "date": "2022-01-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b714ce10c12158821",
+        "name": "Alford Hurley",
+        "type": "Outcome",
+        "amount": 443132.5509,
+        "date": "2022-01-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055d170665a8f61ef8",
+        "name": "Bentley Drake",
+        "type": "Income",
+        "amount": 726408.8323,
+        "date": "2022-01-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b83ad35f121b350be",
+        "name": "Petersen Dale",
+        "type": "Outcome",
+        "amount": 897840.5732,
+        "date": "2022-01-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005786115c540836b74",
+        "name": "Salas Hurst",
+        "type": "Income",
+        "amount": 863049.0963,
+        "date": "2022-01-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4a72533cd7cb7844",
+        "name": "Cortez Carson",
+        "type": "Outcome",
+        "amount": 192462.5189,
+        "date": "2022-01-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058464a76634cd88df",
+        "name": "Hamilton Kirk",
+        "type": "Income",
+        "amount": 966898.2055,
+        "date": "2021-12-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3fc103394d7226a1",
+        "name": "Caldwell Benson",
+        "type": "Outcome",
+        "amount": 789932.7132,
+        "date": "2021-12-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e022e409d87ef42e",
+        "name": "Daniel Dotson",
+        "type": "Income",
+        "amount": 665083.0269,
+        "date": "2021-12-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9a99c0f36cebbcf0",
+        "name": "Lola Daniels",
+        "type": "Outcome",
+        "amount": 198930.1566,
+        "date": "2021-12-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300501d5cb708e5b111b",
+        "name": "Dejesus Chambers",
+        "type": "Income",
+        "amount": 701228.6778,
+        "date": "2021-12-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9287304b06fec314",
+        "name": "Fuentes Romero",
+        "type": "Outcome",
+        "amount": 704089.0182,
+        "date": "2021-12-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cea598bb30c7b898",
+        "name": "Kathrine Clements",
+        "type": "Income",
+        "amount": 266364.7985,
+        "date": "2021-12-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b78f18113ce8e5f97",
+        "name": "Morrow Solomon",
+        "type": "Outcome",
+        "amount": 892237.6579,
+        "date": "2021-12-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050d598b90eb0a25b4",
+        "name": "Consuelo Burt",
+        "type": "Income",
+        "amount": 55821.0982,
+        "date": "2021-12-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb057e039e30a2a1c",
+        "name": "Alvarado Short",
+        "type": "Outcome",
+        "amount": 633748.2574,
+        "date": "2021-12-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057d672b08076ec1da",
+        "name": "Underwood Hansen",
+        "type": "Income",
+        "amount": 914856.624,
+        "date": "2021-12-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b42e56f818b053c90",
+        "name": "Henson Howard",
+        "type": "Outcome",
+        "amount": 418209.2934,
+        "date": "2021-12-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c7d379879672b59f",
+        "name": "Ray Acosta",
+        "type": "Income",
+        "amount": 423486.3793,
+        "date": "2021-12-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bad62f9a8e6916a76",
+        "name": "Kidd Payne",
+        "type": "Outcome",
+        "amount": 213671.615,
+        "date": "2021-12-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059121ba94221d9ca6",
+        "name": "Kennedy Lewis",
+        "type": "Income",
+        "amount": 843080.93,
+        "date": "2021-12-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b369d7b0253e30ba1",
+        "name": "Dora Murray",
+        "type": "Outcome",
+        "amount": 128109.545,
+        "date": "2021-12-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054f4ff8dd70e94194",
+        "name": "Alyson Preston",
+        "type": "Income",
+        "amount": 435879.3415,
+        "date": "2021-12-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd6c05581d808bab0",
+        "name": "Penny Odom",
+        "type": "Outcome",
+        "amount": 815001.0586,
+        "date": "2021-12-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005f2ee23e1bf641eeb",
+        "name": "Iris Walker",
+        "type": "Income",
+        "amount": 898322.0043,
+        "date": "2021-12-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc01ba2b2eb23e054",
+        "name": "Gabriela Salas",
+        "type": "Outcome",
+        "amount": 698666.8525,
+        "date": "2021-12-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005fbf6399c1074cc73",
+        "name": "Miller Riggs",
+        "type": "Income",
+        "amount": 279540.8597,
+        "date": "2021-12-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b473ea9d3d5c1bb48",
+        "name": "Holland Dixon",
+        "type": "Outcome",
+        "amount": 540297.2177,
+        "date": "2021-12-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005597d4fc4f6e70a65",
+        "name": "Fanny Albert",
+        "type": "Income",
+        "amount": 697566.1934,
+        "date": "2021-12-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5d98d62452c29fd0",
+        "name": "Munoz Collins",
+        "type": "Outcome",
+        "amount": 134873.878,
+        "date": "2021-12-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056ead3bf40645c61d",
+        "name": "Chavez Pickett",
+        "type": "Income",
+        "amount": 435885.2047,
+        "date": "2021-12-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b09f5ca81b58bbc9d",
+        "name": "Leonor Pollard",
+        "type": "Outcome",
+        "amount": 969104.4804,
+        "date": "2021-12-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055deb84f26855eca2",
+        "name": "Reid Moody",
+        "type": "Income",
+        "amount": 584885.6703,
+        "date": "2021-12-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b516a89a79e9d71aa",
+        "name": "Park Holmes",
+        "type": "Outcome",
+        "amount": 730599.9744,
+        "date": "2021-12-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c1a26ad8166ccd94",
+        "name": "Ryan Shelton",
+        "type": "Income",
+        "amount": 539176.3629,
+        "date": "2021-12-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b33cc93e578e90b4f",
+        "name": "Daisy Barron",
+        "type": "Outcome",
+        "amount": 380855.4417,
+        "date": "2021-12-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e0a713c55c166cb2",
+        "name": "Alice Sims",
+        "type": "Income",
+        "amount": 65853.4785,
+        "date": "2021-12-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b99defe69ce17969f",
+        "name": "Rosalyn Crane",
+        "type": "Outcome",
+        "amount": 412542.8809,
+        "date": "2021-12-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c03d26c39a9448a6",
+        "name": "Susana Carey",
+        "type": "Income",
+        "amount": 139349.4886,
+        "date": "2021-12-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b464300878a36e928",
+        "name": "Charmaine Colon",
+        "type": "Outcome",
+        "amount": 269047.371,
+        "date": "2021-12-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053201e665c8780bc5",
+        "name": "Weaver Allison",
+        "type": "Income",
+        "amount": 114151.8566,
+        "date": "2021-12-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2dd53769a17cb5c2",
+        "name": "Charlene Spencer",
+        "type": "Outcome",
+        "amount": 787905.0434,
+        "date": "2021-12-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c73d7abcefdd33b8",
+        "name": "Frazier Marsh",
+        "type": "Income",
+        "amount": 246228.1858,
+        "date": "2021-12-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf89a8c5732521e8d",
+        "name": "Dona Fitzgerald",
+        "type": "Outcome",
+        "amount": 532969.8451,
+        "date": "2021-12-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055ebd6252e30bf622",
+        "name": "Gay Ochoa",
+        "type": "Income",
+        "amount": 433445.8983,
+        "date": "2021-12-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4668bbe1aabaf285",
+        "name": "Rivers Robertson",
+        "type": "Outcome",
+        "amount": 523462.2103,
+        "date": "2021-12-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e87b8fc4cb1245a5",
+        "name": "Hawkins Conner",
+        "type": "Income",
+        "amount": 787065.6311,
+        "date": "2021-12-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b794325db0e75e477",
+        "name": "Huber Terrell",
+        "type": "Outcome",
+        "amount": 682916.4894,
+        "date": "2021-12-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056fac9b6abc801868",
+        "name": "Mueller White",
+        "type": "Income",
+        "amount": 8722.4945,
+        "date": "2021-12-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6148b428836c4f02",
+        "name": "Petra Glass",
+        "type": "Outcome",
+        "amount": 555338.706,
+        "date": "2021-12-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055d43187c7cb5dee6",
+        "name": "Saunders Gomez",
+        "type": "Income",
+        "amount": 641197.6141,
+        "date": "2021-12-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b59c96998b1ffd27c",
+        "name": "Veronica Diaz",
+        "type": "Outcome",
+        "amount": 183725.3254,
+        "date": "2021-12-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059d14c21d59252c01",
+        "name": "Mcclain Donaldson",
+        "type": "Income",
+        "amount": 15266.4374,
+        "date": "2021-12-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5bb8091f2cc5bd06",
+        "name": "Blake Black",
+        "type": "Outcome",
+        "amount": 342481.262,
+        "date": "2021-12-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bcd05532ff34af4e",
+        "name": "Fitzpatrick Simmons",
+        "type": "Income",
+        "amount": 827295.7987,
+        "date": "2021-12-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0d0ec8108f4a2e03",
+        "name": "Donna Noble",
+        "type": "Outcome",
+        "amount": 347702.5938,
+        "date": "2021-12-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300520b113feffa4681e",
+        "name": "Dunlap Hernandez",
+        "type": "Income",
+        "amount": 263912.8266,
+        "date": "2021-12-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3b8df675fcde3a80",
+        "name": "Deanna Witt",
+        "type": "Outcome",
+        "amount": 219348.6588,
+        "date": "2021-12-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005255e6e99e4f61341",
+        "name": "Nannie Middleton",
+        "type": "Income",
+        "amount": 791767.6812,
+        "date": "2021-12-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb89f5ffb68ac8be1",
+        "name": "Kristen Stokes",
+        "type": "Outcome",
+        "amount": 210472.0877,
+        "date": "2021-12-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059c923bd66007aa56",
+        "name": "Juliana Juarez",
+        "type": "Income",
+        "amount": 558508.2241,
+        "date": "2021-12-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd1f4abad3c750f5f",
+        "name": "Harrington Shannon",
+        "type": "Outcome",
+        "amount": 432329.2716,
+        "date": "2021-12-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005787b97f67f292396",
+        "name": "Craig Melendez",
+        "type": "Income",
+        "amount": 658010.3761,
+        "date": "2021-12-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b6c28e7575f02eb2f",
+        "name": "Bertie Salinas",
+        "type": "Outcome",
+        "amount": 81270.6282,
+        "date": "2021-12-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ab35531fc94484e1",
+        "name": "Harrell Bowers",
+        "type": "Income",
+        "amount": 296460.9517,
+        "date": "2021-12-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b258d358e3d0166fe",
+        "name": "Beck Booker",
+        "type": "Outcome",
+        "amount": 13561.0905,
+        "date": "2021-12-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005177b3e07b41a6081",
+        "name": "Hartman Gutierrez",
+        "type": "Income",
+        "amount": 324622.5846,
+        "date": "2021-12-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b70785465f021312d",
+        "name": "Dianne Guerrero",
+        "type": "Outcome",
+        "amount": 65742.9292,
+        "date": "2021-12-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005836ef3af51df01a3",
+        "name": "Rogers Talley",
+        "type": "Income",
+        "amount": 521074.4503,
+        "date": "2021-11-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be595a04d329169fd",
+        "name": "Rosalie Figueroa",
+        "type": "Outcome",
+        "amount": 255496.7278,
+        "date": "2021-11-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058af0c16a97e5e701",
+        "name": "Fernandez Cole",
+        "type": "Income",
+        "amount": 518121.4071,
+        "date": "2021-11-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4905393539db7a57",
+        "name": "Cantrell Faulkner",
+        "type": "Outcome",
+        "amount": 963445.4785,
+        "date": "2021-11-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052747e334f016c8a6",
+        "name": "Lenore Robbins",
+        "type": "Income",
+        "amount": 361146.5443,
+        "date": "2021-11-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b65e65fe3ad119b59",
+        "name": "Kathy Summers",
+        "type": "Outcome",
+        "amount": 863782.7026,
+        "date": "2021-11-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053f0dea34fef0e121",
+        "name": "Susan Henry",
+        "type": "Income",
+        "amount": 841845.2555,
+        "date": "2021-11-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bba21f2ea30d07980",
+        "name": "Tanisha Mccarty",
+        "type": "Outcome",
+        "amount": 458847.8424,
+        "date": "2021-11-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ea681520a72217e7",
+        "name": "Phillips Carr",
+        "type": "Income",
+        "amount": 205946.4946,
+        "date": "2021-11-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bda3e8576769d4a1f",
+        "name": "Fitzpatrick Oconnor",
+        "type": "Outcome",
+        "amount": 727148.9023,
+        "date": "2021-11-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c7789ffd5dfd454b",
+        "name": "Lewis Wilcox",
+        "type": "Income",
+        "amount": 515570.1547,
+        "date": "2021-11-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcbbef96c91d4a9ec",
+        "name": "Gwen Graves",
+        "type": "Outcome",
+        "amount": 911251.0917,
+        "date": "2021-11-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300547089191d9e1f697",
+        "name": "Bennett Patton",
+        "type": "Income",
+        "amount": 160525.7728,
+        "date": "2021-11-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b853e8f66337d955b",
+        "name": "Lesa Villarreal",
+        "type": "Outcome",
+        "amount": 644856.3341,
+        "date": "2021-11-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a502a738e66b0164",
+        "name": "Cathleen Calderon",
+        "type": "Income",
+        "amount": 985259.3888,
+        "date": "2021-11-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b160b67c215b4b4ab",
+        "name": "Mckee Morgan",
+        "type": "Outcome",
+        "amount": 410944.3717,
+        "date": "2021-11-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300590adfe736bda91e5",
+        "name": "Lorna Sanders",
+        "type": "Income",
+        "amount": 229661.3394,
+        "date": "2021-11-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b93eae1a3eba6dc23",
+        "name": "Jones Bartlett",
+        "type": "Outcome",
+        "amount": 536687.8695,
+        "date": "2021-11-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ecb51065f3546bfe",
+        "name": "Rush Alford",
+        "type": "Income",
+        "amount": 672030.7576,
+        "date": "2021-11-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bffe9e90557930666",
+        "name": "Lou Craig",
+        "type": "Outcome",
+        "amount": 128113.5903,
+        "date": "2021-11-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057e9ab7b213ccdd89",
+        "name": "Alejandra Griffith",
+        "type": "Income",
+        "amount": 501135.5089,
+        "date": "2021-11-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b18f48218b58afb25",
+        "name": "Cherry Conrad",
+        "type": "Outcome",
+        "amount": 832991.7642,
+        "date": "2021-11-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050af1512e13dcde46",
+        "name": "Bonnie Richard",
+        "type": "Income",
+        "amount": 476390.3211,
+        "date": "2021-11-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9da8875556cdcc55",
+        "name": "Macias Mcdaniel",
+        "type": "Outcome",
+        "amount": 43812.268,
+        "date": "2021-11-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b42ce0aceff6348a",
+        "name": "Katharine Dejesus",
+        "type": "Income",
+        "amount": 802674.1185,
+        "date": "2021-11-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b24444bfcd1ca222c",
+        "name": "Bonita Whitehead",
+        "type": "Outcome",
+        "amount": 144300.3518,
+        "date": "2021-11-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c38173cbfcf0e5e7",
+        "name": "Silva Knapp",
+        "type": "Income",
+        "amount": 44206.4493,
+        "date": "2021-11-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bedda61b72b5e951a",
+        "name": "Fry Lyons",
+        "type": "Outcome",
+        "amount": 803088.4856,
+        "date": "2021-11-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058ed9a9ebe2ede36e",
+        "name": "David Guerra",
+        "type": "Income",
+        "amount": 263331.7275,
+        "date": "2021-11-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd33a0e45bd5823fc",
+        "name": "Andrea Greer",
+        "type": "Outcome",
+        "amount": 451733.3756,
+        "date": "2021-11-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300588b62561cd91f531",
+        "name": "Marian Huff",
+        "type": "Income",
+        "amount": 916206.9186,
+        "date": "2021-11-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdcb81913b9a52421",
+        "name": "Sheppard Frye",
+        "type": "Outcome",
+        "amount": 593953.3324,
+        "date": "2021-11-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054491c147dafe77e7",
+        "name": "Cote Spence",
+        "type": "Income",
+        "amount": 664455.4248,
+        "date": "2021-11-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b12731d8b598eef63",
+        "name": "Alexis Cardenas",
+        "type": "Outcome",
+        "amount": 99710.655,
+        "date": "2021-11-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300538b9af17ba1f3a33",
+        "name": "Hernandez Harris",
+        "type": "Income",
+        "amount": 346037.1762,
+        "date": "2021-11-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9c36ce51a79491c3",
+        "name": "Cash Bowman",
+        "type": "Outcome",
+        "amount": 721533.9533,
+        "date": "2021-11-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ea83e5c1bb4688ae",
+        "name": "Hale Trujillo",
+        "type": "Income",
+        "amount": 928293.7176,
+        "date": "2021-11-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9c8889f71a286348",
+        "name": "Jasmine Potts",
+        "type": "Outcome",
+        "amount": 61583.8354,
+        "date": "2021-11-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300534ca93cd372907f3",
+        "name": "Taylor Hayes",
+        "type": "Income",
+        "amount": 741357.7716,
+        "date": "2021-11-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1dfc8556128ac241",
+        "name": "Luella Martinez",
+        "type": "Outcome",
+        "amount": 473703.6854,
+        "date": "2021-11-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005945ab811c1cc5f27",
+        "name": "Roman Craig",
+        "type": "Income",
+        "amount": 252675.3148,
+        "date": "2021-11-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b256865dbffdefb1d",
+        "name": "Hoffman Massey",
+        "type": "Outcome",
+        "amount": 30288.5249,
+        "date": "2021-11-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ffb214e1df1b2bf9",
+        "name": "Kellie Guerrero",
+        "type": "Income",
+        "amount": 39117.4527,
+        "date": "2021-11-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1eb204d95d8f77e9",
+        "name": "Moody Page",
+        "type": "Outcome",
+        "amount": 927976.9798,
+        "date": "2021-11-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300570da0a9f80c76f6a",
+        "name": "Amber Gates",
+        "type": "Income",
+        "amount": 750933.3156,
+        "date": "2021-11-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3a01288285cf3cb6",
+        "name": "Lorena Horne",
+        "type": "Outcome",
+        "amount": 76087.6961,
+        "date": "2021-11-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300534d522a2b27db5a3",
+        "name": "Newton Gilmore",
+        "type": "Income",
+        "amount": 35247.8778,
+        "date": "2021-11-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b282d3a34175f446f",
+        "name": "Catalina Pierce",
+        "type": "Outcome",
+        "amount": 66104.0164,
+        "date": "2021-11-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ceba66e335174359",
+        "name": "Grace Hanson",
+        "type": "Income",
+        "amount": 422066.8956,
+        "date": "2021-11-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8c5638439a28cdeb",
+        "name": "Hyde Sparks",
+        "type": "Outcome",
+        "amount": 91241.8452,
+        "date": "2021-11-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005731e1dcf38698012",
+        "name": "Macdonald Joseph",
+        "type": "Income",
+        "amount": 334314.2386,
+        "date": "2021-11-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bceb7a199328150d2",
+        "name": "Chandler Hood",
+        "type": "Outcome",
+        "amount": 145968.2017,
+        "date": "2021-11-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055399bbd8cb432be0",
+        "name": "Charlotte Rojas",
+        "type": "Income",
+        "amount": 259918.0462,
+        "date": "2021-11-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2ca20ca54699586a",
+        "name": "Shauna Everett",
+        "type": "Outcome",
+        "amount": 600758.5101,
+        "date": "2021-11-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230051d9e37e86b15853b",
+        "name": "Melanie Beck",
+        "type": "Income",
+        "amount": 77817.1161,
+        "date": "2021-11-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb86b621d8011a02d",
+        "name": "Valencia Lawrence",
+        "type": "Outcome",
+        "amount": 291051.3923,
+        "date": "2021-11-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005849c8cbe93ee9b69",
+        "name": "Ramona David",
+        "type": "Income",
+        "amount": 617693.0257,
+        "date": "2021-11-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b23914dc36cc11b7e",
+        "name": "Angie Ingram",
+        "type": "Outcome",
+        "amount": 812783.3162,
+        "date": "2021-11-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059b8e1b5124aee246",
+        "name": "Lou Fields",
+        "type": "Income",
+        "amount": 61954.3853,
+        "date": "2021-11-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7924352d1eeb9c42",
+        "name": "Sanchez Sellers",
+        "type": "Outcome",
+        "amount": 422477.67,
+        "date": "2021-11-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005626f542f9986581c",
+        "name": "Nelda Snow",
+        "type": "Income",
+        "amount": 24113.5138,
+        "date": "2021-10-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0f30cde895232994",
+        "name": "Bush Stark",
+        "type": "Outcome",
+        "amount": 738110.4099,
+        "date": "2021-10-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300514ba878aa2688f2a",
+        "name": "Jacqueline Cote",
+        "type": "Income",
+        "amount": 638105.2051,
+        "date": "2021-10-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb85b528938dafeaf",
+        "name": "Herminia Downs",
+        "type": "Outcome",
+        "amount": 581828.5899,
+        "date": "2021-10-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057fe75b9bf863145f",
+        "name": "Shannon Reyes",
+        "type": "Income",
+        "amount": 713808.1358,
+        "date": "2021-10-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b88ae0c95a028b915",
+        "name": "Elvira Bridges",
+        "type": "Outcome",
+        "amount": 583563.4859,
+        "date": "2021-10-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052adf102b3aef9b34",
+        "name": "Minnie Hensley",
+        "type": "Income",
+        "amount": 539412.2323,
+        "date": "2021-10-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b7d920d6a5106cc2d",
+        "name": "Ryan Serrano",
+        "type": "Outcome",
+        "amount": 332528.5728,
+        "date": "2021-10-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005093f793d95dd6a86",
+        "name": "Mckay Buckley",
+        "type": "Income",
+        "amount": 520194.9267,
+        "date": "2021-10-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1dda0784a05a99d4",
+        "name": "Knight Morton",
+        "type": "Outcome",
+        "amount": 603727.8796,
+        "date": "2021-10-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e90285cd28a4251a",
+        "name": "Rowland Lott",
+        "type": "Income",
+        "amount": 182456.1274,
+        "date": "2021-10-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8238456dfae9a5e9",
+        "name": "Trevino Valencia",
+        "type": "Outcome",
+        "amount": 756822.1941,
+        "date": "2021-10-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b85db1f8d7675ee9",
+        "name": "Martina Clay",
+        "type": "Income",
+        "amount": 935826.0301,
+        "date": "2021-10-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b211a7e998dc31b44",
+        "name": "Francisca Miranda",
+        "type": "Outcome",
+        "amount": 488705.9246,
+        "date": "2021-10-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300538ac46acb5c935d7",
+        "name": "Orr Alston",
+        "type": "Income",
+        "amount": 83377.6598,
+        "date": "2021-10-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8d7d98ff9517528e",
+        "name": "Dawn Kemp",
+        "type": "Outcome",
+        "amount": 712684.603,
+        "date": "2021-10-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005460d82aaf3697b33",
+        "name": "Lindsey Bird",
+        "type": "Income",
+        "amount": 212696.4021,
+        "date": "2021-10-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb926a1c7e64c1dd5",
+        "name": "Boone Newton",
+        "type": "Outcome",
+        "amount": 744749.8335,
+        "date": "2021-10-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005709193bee9e5387f",
+        "name": "Norton Moss",
+        "type": "Income",
+        "amount": 343945.4789,
+        "date": "2021-10-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b0aa869fe01b76bc8",
+        "name": "Bette Doyle",
+        "type": "Outcome",
+        "amount": 858055.6361,
+        "date": "2021-10-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ebfb4c7028824fdd",
+        "name": "Jeannie Torres",
+        "type": "Income",
+        "amount": 167580.8301,
+        "date": "2021-10-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd48f13aa9f5ba9d8",
+        "name": "Vincent Mitchell",
+        "type": "Outcome",
+        "amount": 669346.4854,
+        "date": "2021-10-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300584bbcb962c5b3c0c",
+        "name": "Sims Mcdowell",
+        "type": "Income",
+        "amount": 122952.5567,
+        "date": "2021-10-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba793b47f24744296",
+        "name": "Amanda Giles",
+        "type": "Outcome",
+        "amount": 565612.0156,
+        "date": "2021-10-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058651e72097e93e0a",
+        "name": "Lara Tyler",
+        "type": "Income",
+        "amount": 441278.901,
+        "date": "2021-10-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba2143010f548c8c9",
+        "name": "Cleo Mueller",
+        "type": "Outcome",
+        "amount": 679787.7503,
+        "date": "2021-10-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c50f7a65ebaa9c0b",
+        "name": "Minerva Lancaster",
+        "type": "Income",
+        "amount": 642088.6756,
+        "date": "2021-10-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba0917e3221aa4540",
+        "name": "Garner Mcbride",
+        "type": "Outcome",
+        "amount": 816291.8793,
+        "date": "2021-10-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057537802b03c59f8e",
+        "name": "Shannon Waters",
+        "type": "Income",
+        "amount": 291904.7585,
+        "date": "2021-10-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcbb0f8cc020beea8",
+        "name": "Christy Moran",
+        "type": "Outcome",
+        "amount": 274809.692,
+        "date": "2021-10-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059903b08f19cb91e1",
+        "name": "Chelsea Delgado",
+        "type": "Income",
+        "amount": 399658.1019,
+        "date": "2021-10-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bd86e89ec967e7bde",
+        "name": "Stevenson Dennis",
+        "type": "Outcome",
+        "amount": 494117.8126,
+        "date": "2021-10-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300567bc82d89d245e35",
+        "name": "Monica Nielsen",
+        "type": "Income",
+        "amount": 128371.0571,
+        "date": "2021-10-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b81040c92b39166e3",
+        "name": "Constance Lee",
+        "type": "Outcome",
+        "amount": 765037.9812,
+        "date": "2021-10-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ca17f10e4b9665f7",
+        "name": "Irwin Banks",
+        "type": "Income",
+        "amount": 984018.9687,
+        "date": "2021-10-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bac82f5b8d99b80ed",
+        "name": "Elaine Mckay",
+        "type": "Outcome",
+        "amount": 864489.8317,
+        "date": "2021-10-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005593c7b72d0bfc311",
+        "name": "Sears Alexander",
+        "type": "Income",
+        "amount": 547664.5576,
+        "date": "2021-10-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9d442e33e525a47a",
+        "name": "Wagner Ayers",
+        "type": "Outcome",
+        "amount": 575643.8346,
+        "date": "2021-10-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e34fe904672462a5",
+        "name": "Ollie House",
+        "type": "Income",
+        "amount": 423596.7402,
+        "date": "2021-10-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8f6af3413b140ac2",
+        "name": "Church Love",
+        "type": "Outcome",
+        "amount": 961487.5872,
+        "date": "2021-10-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058fa4e932947d6ed8",
+        "name": "Carole Hayden",
+        "type": "Income",
+        "amount": 919147.9536,
+        "date": "2021-10-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbd1f3c3950a37363",
+        "name": "Janice Daniel",
+        "type": "Outcome",
+        "amount": 788626.0437,
+        "date": "2021-10-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005632d28b684bdc56e",
+        "name": "Claudia Flowers",
+        "type": "Income",
+        "amount": 460968.0231,
+        "date": "2021-10-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8a2d6041d2b91f88",
+        "name": "Chris Cash",
+        "type": "Outcome",
+        "amount": 942734.2276,
+        "date": "2021-10-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005906adce2a2cec806",
+        "name": "Christy Sampson",
+        "type": "Income",
+        "amount": 648656.1143,
+        "date": "2021-10-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf40a25ffa8d7056d",
+        "name": "Dodson Rivera",
+        "type": "Outcome",
+        "amount": 870708.5421,
+        "date": "2021-10-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b7011f87ec0f6166",
+        "name": "Gabriela Rollins",
+        "type": "Income",
+        "amount": 933225.5699,
+        "date": "2021-10-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb39772ca64fd29fa",
+        "name": "Imelda Barnes",
+        "type": "Outcome",
+        "amount": 141916.8809,
+        "date": "2021-10-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005dec08e20a6889ac6",
+        "name": "Alison Figueroa",
+        "type": "Income",
+        "amount": 460130.439,
+        "date": "2021-10-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b979dae33562943a6",
+        "name": "Valarie Santiago",
+        "type": "Outcome",
+        "amount": 716655.8479,
+        "date": "2021-10-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230057e940b0b9a999324",
+        "name": "Bette Erickson",
+        "type": "Income",
+        "amount": 37568.1065,
+        "date": "2021-10-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbce3fb3e32e2524d",
+        "name": "Parks Simpson",
+        "type": "Outcome",
+        "amount": 647505.473,
+        "date": "2021-10-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300555c970e0e6543e3a",
+        "name": "Phyllis Shepherd",
+        "type": "Income",
+        "amount": 488927.8616,
+        "date": "2021-10-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b852decdaf630c61b",
+        "name": "Frieda Silva",
+        "type": "Outcome",
+        "amount": 680212.0059,
+        "date": "2021-10-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052db3ac635b49250e",
+        "name": "Hester Melton",
+        "type": "Income",
+        "amount": 752494.9004,
+        "date": "2021-10-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b531eeded74c0ab11",
+        "name": "Desiree Rodgers",
+        "type": "Outcome",
+        "amount": 656142.9103,
+        "date": "2021-10-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b44448b039fe17d0",
+        "name": "Manuela Frank",
+        "type": "Income",
+        "amount": 240588.126,
+        "date": "2021-10-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3cde549023f78617",
+        "name": "Alberta Mcintyre",
+        "type": "Outcome",
+        "amount": 695737.1599,
+        "date": "2021-10-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005cb0cefbf8d1a1187",
+        "name": "Clare Sexton",
+        "type": "Income",
+        "amount": 192723.1386,
+        "date": "2021-10-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfd2c38f0a3cd7d42",
+        "name": "Judy Callahan",
+        "type": "Outcome",
+        "amount": 670143.4325,
+        "date": "2021-10-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052072e9db4c5747eb",
+        "name": "Dale Reeves",
+        "type": "Income",
+        "amount": 402388.6696,
+        "date": "2021-10-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be57fce972c163a0e",
+        "name": "Johnston Perez",
+        "type": "Outcome",
+        "amount": 187658.0733,
+        "date": "2021-10-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005575376dab5c3e113",
+        "name": "Maynard Lowe",
+        "type": "Income",
+        "amount": 317571.9559,
+        "date": "2021-09-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be060166eb2d85571",
+        "name": "Shelby Cooke",
+        "type": "Outcome",
+        "amount": 420259.7282,
+        "date": "2021-09-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058145c324e1b844fd",
+        "name": "Hilary Savage",
+        "type": "Income",
+        "amount": 682519.7643,
+        "date": "2021-09-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b961b2c5eff9c18fb",
+        "name": "Janine Cook",
+        "type": "Outcome",
+        "amount": 608042.4856,
+        "date": "2021-09-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300521758a6fe05a2acd",
+        "name": "Elvia Luna",
+        "type": "Income",
+        "amount": 746118.6996,
+        "date": "2021-09-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcb01e35fbea35561",
+        "name": "Jill Petty",
+        "type": "Outcome",
+        "amount": 88551.6527,
+        "date": "2021-09-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059093ef1e54b8bcc3",
+        "name": "Roth Collins",
+        "type": "Income",
+        "amount": 288801.8923,
+        "date": "2021-09-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b08583495bf17dc7a",
+        "name": "Rosalind Bonner",
+        "type": "Outcome",
+        "amount": 433483.3075,
+        "date": "2021-09-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005151cd6bc3662aeb1",
+        "name": "Vonda Wright",
+        "type": "Income",
+        "amount": 169086.3544,
+        "date": "2021-09-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfa84d9d77a5c4357",
+        "name": "Roseann Avila",
+        "type": "Outcome",
+        "amount": 238345.8465,
+        "date": "2021-09-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005fd74769afa6eb0b6",
+        "name": "Kaufman Aguirre",
+        "type": "Income",
+        "amount": 597717.4714,
+        "date": "2021-09-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba8afc15b1d2cd9a5",
+        "name": "Harvey Graham",
+        "type": "Outcome",
+        "amount": 471447.5903,
+        "date": "2021-09-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052c75d4d3adfb38a3",
+        "name": "Dixie Terry",
+        "type": "Income",
+        "amount": 563572.4592,
+        "date": "2021-09-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b41b7680b6d64f7d9",
+        "name": "Emerson Saunders",
+        "type": "Outcome",
+        "amount": 307002.6842,
+        "date": "2021-09-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300550336181807ccbcb",
+        "name": "Savage Morris",
+        "type": "Income",
+        "amount": 853059.5523,
+        "date": "2021-09-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb01ef6a859701dc1",
+        "name": "Tanner Guzman",
+        "type": "Outcome",
+        "amount": 195822.7561,
+        "date": "2021-09-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a252f21c7e97a1df",
+        "name": "Marion Noel",
+        "type": "Income",
+        "amount": 44870.1186,
+        "date": "2021-09-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b44015fe4cf099d16",
+        "name": "Rhodes Lindsay",
+        "type": "Outcome",
+        "amount": 696581.4377,
+        "date": "2021-09-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050f509e06f1b15c99",
+        "name": "Eula Frazier",
+        "type": "Income",
+        "amount": 665983.217,
+        "date": "2021-09-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be69eefe7595c37d2",
+        "name": "Atkins Bright",
+        "type": "Outcome",
+        "amount": 804380.872,
+        "date": "2021-09-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230056d3998201cb64b82",
+        "name": "Leticia Lester",
+        "type": "Income",
+        "amount": 373197.1422,
+        "date": "2021-09-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b839e8571deb5b080",
+        "name": "Jayne Barton",
+        "type": "Outcome",
+        "amount": 621048.5646,
+        "date": "2021-09-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005031c9cd76f4ae705",
+        "name": "Schroeder Payne",
+        "type": "Income",
+        "amount": 682462.6749,
+        "date": "2021-09-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b17ee42395ed898ec",
+        "name": "John Benton",
+        "type": "Outcome",
+        "amount": 276168.3338,
+        "date": "2021-09-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e1806b4aa5581ca8",
+        "name": "Danielle Salas",
+        "type": "Income",
+        "amount": 582450.8177,
+        "date": "2021-09-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b528577ecbfdf4d26",
+        "name": "Beulah Kinney",
+        "type": "Outcome",
+        "amount": 505992.7312,
+        "date": "2021-09-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300518574450887d1118",
+        "name": "Stella Rodriguez",
+        "type": "Income",
+        "amount": 953343.4694,
+        "date": "2021-09-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b1a5551fb64d3ca63",
+        "name": "Paula Vaughan",
+        "type": "Outcome",
+        "amount": 151663.3261,
+        "date": "2021-09-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300523065c19704fd161",
+        "name": "Concetta Nichols",
+        "type": "Income",
+        "amount": 943586.5121,
+        "date": "2021-09-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b66e5c309bbc55885",
+        "name": "Lina Hanson",
+        "type": "Outcome",
+        "amount": 203321.4323,
+        "date": "2021-09-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ef6c73a69e353c82",
+        "name": "Boyd Rice",
+        "type": "Income",
+        "amount": 12213.4986,
+        "date": "2021-09-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9432f83f33591f81",
+        "name": "Luna Navarro",
+        "type": "Outcome",
+        "amount": 271257.2897,
+        "date": "2021-09-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300504065af75c8a2c3d",
+        "name": "Lolita Tran",
+        "type": "Income",
+        "amount": 532531.0208,
+        "date": "2021-09-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8d134fb5fd6638d6",
+        "name": "Price Howell",
+        "type": "Outcome",
+        "amount": 765297.192,
+        "date": "2021-09-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bf8d53b21af92410",
+        "name": "Ingram Ryan",
+        "type": "Income",
+        "amount": 674239.7634,
+        "date": "2021-09-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b12ededa7b206ecfd",
+        "name": "Roxie Castaneda",
+        "type": "Outcome",
+        "amount": 761539.8478,
+        "date": "2021-09-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005fb51b18d4b167e9f",
+        "name": "Cantu Kennedy",
+        "type": "Income",
+        "amount": 602444.6414,
+        "date": "2021-09-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8f5cd1ef0455882a",
+        "name": "Kitty Webb",
+        "type": "Outcome",
+        "amount": 218912.7586,
+        "date": "2021-09-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bf829c3cb68afdb6",
+        "name": "Myrna Chan",
+        "type": "Income",
+        "amount": 703638.9315,
+        "date": "2021-09-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3efa70e0ecea13c1",
+        "name": "Carmella Decker",
+        "type": "Outcome",
+        "amount": 624025.4748,
+        "date": "2021-09-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300518e5e95037838789",
+        "name": "Penelope Weeks",
+        "type": "Income",
+        "amount": 545864.4799,
+        "date": "2021-09-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b39a3b5a596b2c18d",
+        "name": "Brandy Oneil",
+        "type": "Outcome",
+        "amount": 562380.4382,
+        "date": "2021-09-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d4a5b2f5a1668752",
+        "name": "Marcella Shannon",
+        "type": "Income",
+        "amount": 476901.4694,
+        "date": "2021-09-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b77ab073e0705f4fe",
+        "name": "Bradford Becker",
+        "type": "Outcome",
+        "amount": 256530.5877,
+        "date": "2021-09-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300511de4c2b56ae16ab",
+        "name": "Renee Young",
+        "type": "Income",
+        "amount": 590789.874,
+        "date": "2021-09-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302be6173e4c6f9c3570",
+        "name": "Erna Phillips",
+        "type": "Outcome",
+        "amount": 577966.4915,
+        "date": "2021-09-08T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300563c5d59c5cdbee5b",
+        "name": "Walls Merrill",
+        "type": "Income",
+        "amount": 613848.7017,
+        "date": "2021-09-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bbb8605906e725153",
+        "name": "Weaver Nash",
+        "type": "Outcome",
+        "amount": 823753.0988,
+        "date": "2021-09-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005680920e6c23812e5",
+        "name": "Griffin Jacobson",
+        "type": "Income",
+        "amount": 395064.813,
+        "date": "2021-09-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bcf395a52110eb93a",
+        "name": "Heath Kramer",
+        "type": "Outcome",
+        "amount": 776641.7091,
+        "date": "2021-09-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300513e219eab9ba70cf",
+        "name": "Shelby Wong",
+        "type": "Income",
+        "amount": 148949.1045,
+        "date": "2021-09-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2570f4de6ee1ed6a",
+        "name": "Spence Tate",
+        "type": "Outcome",
+        "amount": 591494.2287,
+        "date": "2021-09-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d3d49aa67c39ff5b",
+        "name": "Roseann Zimmerman",
+        "type": "Income",
+        "amount": 419477.2869,
+        "date": "2021-09-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bff938b555ef6cdba",
+        "name": "Paul Sutton",
+        "type": "Outcome",
+        "amount": 452263.0958,
+        "date": "2021-09-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ef712010ccf6bf67",
+        "name": "Kay Ramirez",
+        "type": "Income",
+        "amount": 890107.6925,
+        "date": "2021-09-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bfe8fa0dc8bef1564",
+        "name": "Sherry Rowe",
+        "type": "Outcome",
+        "amount": 389911.2114,
+        "date": "2021-09-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005164148b75e976d38",
+        "name": "Luna Nicholson",
+        "type": "Income",
+        "amount": 225030.4944,
+        "date": "2021-09-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2309b0bbbf3cd093",
+        "name": "Hanson Burnett",
+        "type": "Outcome",
+        "amount": 923232.6678,
+        "date": "2021-09-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050d360ef0b1bbd3ed",
+        "name": "Ellis Mcdonald",
+        "type": "Income",
+        "amount": 962014.4172,
+        "date": "2021-09-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b42e9c795b65cb93b",
+        "name": "Kristy Weaver",
+        "type": "Outcome",
+        "amount": 834773.256,
+        "date": "2021-09-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ea3018c3a0dca3d0",
+        "name": "Annie Baker",
+        "type": "Income",
+        "amount": 633597.3301,
+        "date": "2021-08-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b250472b2a66eb7a4",
+        "name": "Case James",
+        "type": "Outcome",
+        "amount": 900495.2747,
+        "date": "2021-08-31T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005bc2f8ed17fedfd49",
+        "name": "Fields Sosa",
+        "type": "Income",
+        "amount": 125504.225,
+        "date": "2021-08-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc3bc41b15ded0cd8",
+        "name": "Phoebe Clements",
+        "type": "Outcome",
+        "amount": 856970.4922,
+        "date": "2021-08-30T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d7b0400658d16cc4",
+        "name": "Padilla Elliott",
+        "type": "Income",
+        "amount": 433917.6782,
+        "date": "2021-08-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb7f01011e07e6422",
+        "name": "Blackburn Hensley",
+        "type": "Outcome",
+        "amount": 580472.8027,
+        "date": "2021-08-29T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230058625c116ac7fc4ca",
+        "name": "Munoz Johnson",
+        "type": "Income",
+        "amount": 36510.0333,
+        "date": "2021-08-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b64f9d7ae9818c859",
+        "name": "Adkins Watts",
+        "type": "Outcome",
+        "amount": 45384.4825,
+        "date": "2021-08-28T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005dc74c08533078839",
+        "name": "Alisha Schneider",
+        "type": "Income",
+        "amount": 783577.0705,
+        "date": "2021-08-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3d91099b5dcf1d5b",
+        "name": "Melissa Shaffer",
+        "type": "Outcome",
+        "amount": 115464.7992,
+        "date": "2021-08-27T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052f8a54a43677cf1b",
+        "name": "Knight Barron",
+        "type": "Income",
+        "amount": 621846.3364,
+        "date": "2021-08-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b149c75ed3a3aac67",
+        "name": "Mays Gay",
+        "type": "Outcome",
+        "amount": 674806.3636,
+        "date": "2021-08-26T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055636873ed8823e3b",
+        "name": "Cherie Blanchard",
+        "type": "Income",
+        "amount": 174969.4999,
+        "date": "2021-08-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bde20d31a46ee401c",
+        "name": "Graciela Wells",
+        "type": "Outcome",
+        "amount": 869257.1205,
+        "date": "2021-08-25T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ec915ee7d05a8bb0",
+        "name": "Stevens Long",
+        "type": "Income",
+        "amount": 908704.5478,
+        "date": "2021-08-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf6397e2da82d46b3",
+        "name": "Loretta Franco",
+        "type": "Outcome",
+        "amount": 376616.28,
+        "date": "2021-08-24T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300578e6e610bfee5ec2",
+        "name": "Kara Avila",
+        "type": "Income",
+        "amount": 870434.1523,
+        "date": "2021-08-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc698d8cbb2a752e0",
+        "name": "Moss Fleming",
+        "type": "Outcome",
+        "amount": 786908.844,
+        "date": "2021-08-23T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054c37ed4badfd7513",
+        "name": "Hyde Brewer",
+        "type": "Income",
+        "amount": 370858.2032,
+        "date": "2021-08-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bba2e314e807d88db",
+        "name": "Bender Montgomery",
+        "type": "Outcome",
+        "amount": 137045.069,
+        "date": "2021-08-22T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230052f00c8ad7fc1d556",
+        "name": "Martin Rios",
+        "type": "Income",
+        "amount": 348725.925,
+        "date": "2021-08-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b4f68e05f714b9ea9",
+        "name": "Rosella Gentry",
+        "type": "Outcome",
+        "amount": 941815.7076,
+        "date": "2021-08-21T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300530721177050d1f24",
+        "name": "Hester Stout",
+        "type": "Income",
+        "amount": 304190.7592,
+        "date": "2021-08-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b57d8d8c7a0d0e039",
+        "name": "Adriana Lawson",
+        "type": "Outcome",
+        "amount": 709528.4351,
+        "date": "2021-08-20T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230053a225981c13ea575",
+        "name": "Noelle Rivers",
+        "type": "Income",
+        "amount": 623143.5695,
+        "date": "2021-08-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b2c1efea7f6413b73",
+        "name": "Violet Brady",
+        "type": "Outcome",
+        "amount": 134216.3818,
+        "date": "2021-08-19T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005a39d0db1269c3ac6",
+        "name": "Rosemarie Maldonado",
+        "type": "Income",
+        "amount": 19019.5528,
+        "date": "2021-08-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302ba825e9df79e87e9b",
+        "name": "Marcella Schmidt",
+        "type": "Outcome",
+        "amount": 102110.0471,
+        "date": "2021-08-18T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005dbb9e2f8f297461b",
+        "name": "Buckley Blevins",
+        "type": "Income",
+        "amount": 278232.3903,
+        "date": "2021-08-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bf4753a84197e68bb",
+        "name": "Wendi Ross",
+        "type": "Outcome",
+        "amount": 901607.7593,
+        "date": "2021-08-17T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050e6ef780cae4d00d",
+        "name": "Kaye Vasquez",
+        "type": "Income",
+        "amount": 506773.6417,
+        "date": "2021-08-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b552ed0cc7cd485fc",
+        "name": "Santiago Rosales",
+        "type": "Outcome",
+        "amount": 690228.9813,
+        "date": "2021-08-16T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230055f1f1159366e16ed",
+        "name": "Christie Duffy",
+        "type": "Income",
+        "amount": 500669.2745,
+        "date": "2021-08-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b8d1d6a8643aa82f3",
+        "name": "Wynn Thompson",
+        "type": "Outcome",
+        "amount": 986530.6064,
+        "date": "2021-08-15T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005ac6647e2d734f667",
+        "name": "Cornelia Ortega",
+        "type": "Income",
+        "amount": 934804.1097,
+        "date": "2021-08-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bb0b09d16845f9bee",
+        "name": "Pearson Henry",
+        "type": "Outcome",
+        "amount": 961823.723,
+        "date": "2021-08-14T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005c235425ba3193b94",
+        "name": "Rasmussen Anthony",
+        "type": "Income",
+        "amount": 971479.5848,
+        "date": "2021-08-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b753c4dbaf35d1619",
+        "name": "Walter Ramirez",
+        "type": "Outcome",
+        "amount": 215289.5821,
+        "date": "2021-08-13T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005e87d3a98eb29b56f",
+        "name": "Lilia Mathews",
+        "type": "Income",
+        "amount": 890835.8806,
+        "date": "2021-08-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b64ed50e2d5414b89",
+        "name": "Wilma Tanner",
+        "type": "Outcome",
+        "amount": 292115.0703,
+        "date": "2021-08-12T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005b7141bf196c9eb13",
+        "name": "Jeannette Mclaughlin",
+        "type": "Income",
+        "amount": 249146.8848,
+        "date": "2021-08-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b15ce8782ef33c8d4",
+        "name": "Glass Ayala",
+        "type": "Outcome",
+        "amount": 612140.9333,
+        "date": "2021-08-11T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230050a1fc6926370442b",
+        "name": "Pearlie Joyce",
+        "type": "Income",
+        "amount": 631471.5274,
+        "date": "2021-08-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b9bbbe1fa9432a244",
+        "name": "Jody Hyde",
+        "type": "Outcome",
+        "amount": 791596.3272,
+        "date": "2021-08-10T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054e3a9a37b4a1811a",
+        "name": "Carlene Mckee",
+        "type": "Income",
+        "amount": 372150.3229,
+        "date": "2021-08-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bdda8d0472132628a",
+        "name": "Bishop Morrison",
+        "type": "Outcome",
+        "amount": 918060.0243,
+        "date": "2021-08-09T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054c441593b37f67e1",
+        "name": "Day Sheppard",
+        "type": "Income",
+        "amount": 16641.6341,
+        "date": "2021-08-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b3805fc239b35d2dc",
+        "name": "Rios Hart",
+        "type": "Outcome",
+        "amount": 747620.7976,
+        "date": "2021-08-07T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2300515f5518a04b98054",
+        "name": "Curtis Hammond",
+        "type": "Income",
+        "amount": 919905.1567,
+        "date": "2021-08-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bc47b9ed8d0c89e0d",
+        "name": "Olga Meyer",
+        "type": "Outcome",
+        "amount": 88583.5226,
+        "date": "2021-08-06T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005aac6c2fcac3052de",
+        "name": "Tillman West",
+        "type": "Income",
+        "amount": 974104.9035,
+        "date": "2021-08-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302bacd18a093bd4a11c",
+        "name": "Louella Herring",
+        "type": "Outcome",
+        "amount": 231845.4231,
+        "date": "2021-08-05T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005673781ea853e74e3",
+        "name": "Sandy Levy",
+        "type": "Income",
+        "amount": 390360.2514,
+        "date": "2021-08-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b77533316528375c2",
+        "name": "Marla Lott",
+        "type": "Outcome",
+        "amount": 146825.7134,
+        "date": "2021-08-04T00:00:00.000Z"
+      },
+      {
+        "_id": "62f23005d9fcd291d5d1f37e",
+        "name": "Shirley Garrett",
+        "type": "Income",
+        "amount": 131498.1322,
+        "date": "2021-08-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5382dcb950ad50ba",
+        "name": "Anita Gallegos",
+        "type": "Outcome",
+        "amount": 918706.293,
+        "date": "2021-08-03T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230054b2aa7ba684d8d52",
+        "name": "Lynda Franklin",
+        "type": "Income",
+        "amount": 641857.1215,
+        "date": "2021-08-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b5b89f48e1f9ed5bb",
+        "name": "Velazquez French",
+        "type": "Outcome",
+        "amount": 778412.2764,
+        "date": "2021-08-02T00:00:00.000Z"
+      },
+      {
+        "_id": "62f230059b995c40a1926d70",
+        "name": "Ingrid Santos",
+        "type": "Income",
+        "amount": 934360.3989,
+        "date": "2021-08-01T00:00:00.000Z"
+      },
+      {
+        "_id": "62f2302b20db0813e79ab1c9",
+        "name": "Gonzalez Finley",
+        "type": "Outcome",
+        "amount": 275012.267,
+        "date": "2021-08-01T00:00:00.000Z"
+      }
+    ]
+  }
+]

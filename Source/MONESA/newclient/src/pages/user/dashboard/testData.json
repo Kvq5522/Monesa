@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "62ec994e235e581ecb57050a",
+    "name": "personal workspace",
+    "owner": "",
+    "member": [
+      {
+        "id": "62ec994d235e581ecb570509",
+        "role": "admin"
+      }
+    ],
+    "createAt": "2022-08-05T00:00:00.000Z"
+  }
+]

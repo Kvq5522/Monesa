@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "light.min.css",
+	"sources": [
+		"../scss/skins/default.scss",
+		"../scss/base/_colors.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAEQ,UAFE,CACN,EAAE,AAAA,OAAO,CACL,CAAC,AAAA,CACG,KAAK,CCSH,OAAO,CDRZ"
+}
